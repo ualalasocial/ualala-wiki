@@ -67,10 +67,6 @@
 * E-mail público: hola@ualala.org
 * Lista de correo interna: ualala-general@lists.ourproject.org
 
-## Sitio web
-
-...?
-
 ## Otros recursos
 
 * [[Agenda de contactos de prensa]]
