@@ -1,0 +1,31 @@
+## Definición
+
+Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera, dando a conocer el proyecto tanto a nivel global (mantenimiento de sitio web) y principalmente a nivel local, a fin de sumar nuevos miembros a UALALA. También se ocupa de la comunicación interna del proyecto, registro de actividades, documentación de reuniones y dinámicas grupales durante las asambleas.
+
+## Miembros
+
+* YOR
+* FRANCO
+* DARIO
+* ED
+
+## Listado de tareas
+
+* Pasar en limpio la nueva forma de organización de Ualala, contando que hay horarios fijos y posibilidad de participar de otra forma.
+* Publicar el sitio web
+* Plan de comunicación para el crecimiento 
+* Capacitar al grupo en el uso del wiki
+* Definir identidad gráfica
+
+## Páginas
+
+* [[comunicacion:sitio_web|Sitio web público]]
+* [[comunicacion:video_presentacion|Video de presentación]]
+* [[comunicacion:redes_sociales|Perfiles en redes sociales]]
+* [[comunicacion:enviar_boletines|Envío de boletines]]
+
+
+## Reuniones
+
+* [[Comunicacion:Resumen del 2015/08/18]]
+* [[Comunicacion:Resumen del 2015/08/27]]

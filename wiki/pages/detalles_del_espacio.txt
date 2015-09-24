@@ -1,0 +1,6 @@
+## Fotos del espacio
+### Plano y dimensiones
+{{:plano_casa.svg?900?direct}}
+
+### Junio 2015
+{{gallery>:fotos?casa_ualala_junio2015-*.jpg&80x80&crop&lightbox}}

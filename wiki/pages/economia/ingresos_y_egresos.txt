@@ -1,0 +1,11 @@
+Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteúltima fila y editar según corresponda.
+
+^ Fecha ^ Concepto ^ Entra ^ Sale ^
+| 10-09-15 | Dinero en caja hasta el momento |2660.4|0|
+| 10-09-15 | Alquiler Septiembre |0|1000|
+| 10-09-15 | Gas Septiembre |0|30|
+| 12-09-15 | Compra de llave de paso |0|201|
+| 12-09-15 | Dr.bio-destapacañerías- |0|30|
+| 15-09-15 | Venta de cajones de verduras |500|0|
+| 19-09-15 | Venta en Feria de ropa |390.6|0|
+^ TOTAL    ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^

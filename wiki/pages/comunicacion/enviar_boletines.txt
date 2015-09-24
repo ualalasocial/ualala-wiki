@@ -1,0 +1,8 @@
+## Proceso de envio de boletines
+
+Los boletines se envian desde la casilla novedades(en)ualala.org. Para acceder a la misma, se ingresa a la siguiente dirección:
+
+* Acceso: https://login.bluehost.com/cgi/webmail
+* Usuario: novedades@ualala.org
+
+El mensaje se envía a la casilla ualala-novedades(en)lists.ourproject.org

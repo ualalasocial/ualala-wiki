@@ -1,0 +1,127 @@
+## Tareas pendientes
+### Por hacer 
+
+#### Limpieza
+
+* Limpiar ventanas y vidrios
+* Limpiar el horno de cocina
+* Limpiar el patio delantero
+
+#### Muebles
+
+* Lijar mesas
+* Clavar y pintar los cajones de madera
+* Arreglar cajones de la cocina
+* Cambiar la Tapa de inodoro
+
+#### Electricidad
+
+* Poner focos de afuera de la entrada
+* Se corta la luz cuando llueve arreglar
+* Poner tapas para enchufe
+* Hay que cambiar el toma del equipo de musica
+
+#### Paredes
+
+* Rellenar agujero de la pared
+* Solucionar inundación del baño cuando llueve
+* Fijar la pata del lavamanos del baño
+* Hacer parches con fino y pintura
+* Pintar las paredes
+
+### Para comprar
+
+* 5 tapa-tomas
+* 1 toma
+* Lija
+* Placas a medida de chapadur para el fondo de los cajones
+
+### Para pedir
+
+* Kits de limpieza para los chicxs
+
+### Para llevar 
+
+* Utensillos de cocina
+* Vajilla
+* Ed pone una heladera pequeña
+
+## Gastos
+
+^Fecha^Concepto^Monto^
+|12-Jun-15	|	Franela y lavandina((Pagó Franco))	| 25|
+|18-Jun-15	|	Escoba, pala, repuesto reflector y lampara de 15W((Pagó Franco))	| 145|
+|20-Jun-15	|	Pago de deuda de Gas((Pagó Nelia))	| 60|
+|25-Jun-15	|	Cemento, poxi mix, y mas((Pagó Hernan))	| 105|
+|08-Jul-15	|	Materiales de pintura((Pagó Hernan))	| 507|
+|13-Jul-15	|	Rodillos y pinceles((Pagó Franco))	| 130|
+|Julio-15       |       Poximix -2 bolsas- ((Pagó Hernan))      |  80 |
+| Jul-15        |       Pintura interior blanca ((Pagó Her))    | 454 |
+|TOTAL| | ~~=sum(range(col(),0,col(),row()-1))~~|
+
+
+## Jornadas de mejoramiento
+
+### Jueves 16/07
+
+Estuvieron Cin, Ed, Franco y Nelia
+
+Lo realizado:
+
+* Pintamos la 1ra mano de blanco en el ambiente de la entrada
+* Dimos 2 manos de verde a la cocina y la arcada de la cocina. Delimitamos la pared del ambiente de la entrada que tiene que pintarse de verde. 
+* Dimos la 1ra mano de verde al baño y al mini ambiente a la entrada del baño
+* Limpiamos y ordenamos bastante toda la casita.
+
+Lo que falta hacer:
+
+* Picar y parchar con mezcla la pared de la habitacion que da al baño. hacer lo mismo dentro del baño, a la izquierda de la entrada.
+* Dar la 2da mano de verde al baño y al mini ambiente de la entrada del baño
+* Dar una mano de verde a la pared del ambiente de entrada
+* Pintar de amarillo claro 2 paredes del ambiente de entrada y todas las paredes de la habitacion
+* Aplicar yeso en el techo y pintar todos los techos
+* Lijar y pintar todas las aberturas
+
+Comprar:
+
+* Otra lata de 10l de pintura blanca
+* Yeso
+
+
+### Jueves 25/06
+
+Estuvieron presentes Hernan. Ed y Cin. Si hicieron las siguientes tareas:
+
+* Picado y rasqueteado de paredes
+* Se tapó el agujero de la pared arriba del termo tanque y la parte de afuera
+* Se pasó enduido y cemento en las partes rasqueteadas
+
+### Jueves 18/06
+
+Estuvieron presentes Ed y Franco. Se hicieron las siguientes tareas:
+
+* Lijado de los cajones de madera de fruta donde guardar algunos materiales. Resta clavar y pintar.
+* Limpieza general de las aberturas de las ventanas que tenian mucha tierra. Resta una limpieza mas profunda y falta limpiar los vidrios de las ventanas.
+* Compra e instalación de 1 foco de bajo consumo para la la cocina y repuesto de reflector para la sala grande.
+* Se hizo registro de fotos del estado del lugar a la fecha:
+
+{{gallery>:fotos?casa_ualala_junio2015-*.jpg&80x80&crop&lightbox}}
+
+* Se tomaron las medidas de la Casa y del patio delantero:
+{{:plano_casa.svg?800?direct}}
+
+### Viernes 12/06
+
+Estuvieron presentes Yor y Franco. Se hicieron las siguientes tareas:
+
+* Se llevaron la mayor parte de las cosas a la casa 3
+* Se limpio el suelo, el baño y la cocina
+* Se clasificaron algunos materiales y se dejaron en el espacio 3 cajas con materiales y una repisa.
+* Se hizo un listado de las cosas a comprar y a arreglar
+
+### Miércoles 03/06
+
+Estuvieron presentes Cin, Nelia, Hernan y Ed. Se hicieron las siguientes tareas:
+
+* Se ordenó la casa 3 y se llevaron algunos materiales
+* Se comenzó a ordenar la Casa Ualala

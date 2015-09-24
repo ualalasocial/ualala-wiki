@@ -1,0 +1,15 @@
+En esta página nos proponemos mejorar el video de presentación de Ualala.
+
+## Criticas/Correcciones
+
+* Las fotos cambian demasiado rapido
+* Sincronizar audio con cambio de fotos
+* El final no deberia terminar con la casa, sino con apoyo al proyecto
+* Relacionar mejor los títulos con las fotos (que estas describan bien lo que se dice -hay puntualmente algunos errores de imagenes de EPEP q no son de estos encuentros, o de relacion con la comunidad, q son en realidad reuniones de Ualala)
+* Sumar fotos más actuales (fotos encuentro burbujas -Yorg-)
+
+## Videos
+
+### Versión 0.1
+
+{{youtube>large:O1PUzkNVpFQ}} 
