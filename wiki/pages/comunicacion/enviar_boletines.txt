@@ -6,3 +6,7 @@ Los boletines se envian desde la casilla novedades(en)ualala.org. Para acceder a
 * Usuario: novedades@ualala.org
 
 El mensaje se envía a la casilla ualala-novedades(en)lists.ourproject.org
+
+## Administración de lista de correo
+
+Los boletines se envian usando una lista de correo tipo Mailman que se administra desde el siguiente enlace: https://lists.ourproject.org/cgi-bin/mailman/admin/ualala-novedades/general
