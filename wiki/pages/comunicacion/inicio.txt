@@ -26,6 +26,10 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 * [[comunicacion:redes_sociales|Perfiles en redes sociales]]
 * [[comunicacion:enviar_boletines|Envío de boletines]]
 
+## Gacetillas
+
+* [[comunicacion:gacetilla_venta_verduras|Gacetilla para difundir la venta de verduras]]
+
 ## Reuniones
 
 * [[Comunicacion:Resumen del 2015/08/18]]
