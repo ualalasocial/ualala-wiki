@@ -1,6 +1,4 @@
 
-
-```
 ## Apoya a UALALA, un proyecto de educación alternativa de Tandil
 
 Hola, somos el colectivo UALALA, un proyecto de educación alternativa de Tandil nacido en 2013. Llevamos adelante una experiencia educativa libertaria, integral, autogestiva y desescolarizante con niñxs de 1 a 4 años. Para saber mas sobre lo que hacemos, ingresá en http://evo.re/UALALA
@@ -48,4 +46,4 @@ Si te interesa ser parte de UALALA, escribinos a hola@ualala.org para entrar en 
 ¡Gracias por leernos!
 
 Saludos del Coletivo UALALA
-```
+
