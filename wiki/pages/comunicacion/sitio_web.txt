@@ -1,22 +1,48 @@
 ## Secciones del sitio
 
-* ¿Quiénes somos?
-* Nuestra historia
-* Principios fundamentales
-* ¿Cómo nos organizamos?
-* ¿Cómo participar? (pensando tb en colaboraciones económicas)
+* Sobre UALALA
+  * ¿Quiénes somos?
+  * Nuestro proyecto pedagógico
+  * Principios fundamentales
+
+  * Acciones con la comunidad
+  * Nuestra historia
+* Proceso/Historia/Bitáctora
+  * Hitos históricos
+    * La Casa
+    * Ciclo de conversatorios
+    * Nombre
+    * EPEP
+    * Se suma un santiagueño
+    * Agregar otros hitos
+* Participa
+* Apoyanos
+* Contacto
+
+
+
+## Contenido de las secciones
 
 ### Quienes somos?
 
 Somos un colectivo que busca acompañar el aprendizaje y crianza de sus integrantes, tanto niñxs como adultxs, de forma comunitaria y compartida.
 
-### Historia:
+> Poner algo sobre el perfil de personas que conforman el grupo, algo mas de su visión personal.
 
-El proyecto nace en mayo de 2013 frente a la inquietud de un par de familias respecto de la escolarización de nuestrxs hijxs. Impulsadxs por la decisión de no incluir a lxs niñxs en el sistema educativo oficial, decidimos tomar a tiempo las riendas del asunto y comenzar a dar forma a una nueva idea de educación. Tras unas cuantas reuniones se pautaron las bases que luego sirvieron (y sirven) como fundamento para la incorporación de nuevas familias y personas interesadas, lo que permitió la conformación del grupo de niñxs y la puesta en marcha de sus encuentros. 
+### Nuestro proyecto pedagógico
 
-En principio, se estudiaron las diferentes pedagogías y experiencias llevadas adelante en diferentes lugares, con el propósito de encontrar la que se adecuase más a nuestros intereses, necesidades e ideales. Luego de una sucesión de reuniones decidimos definirnos en el marco de la corriente libre y rescatar de las otras pedagogías todo aquello que nos enriquezca. De esta manera, no nos encasillamos dentro de una estructura teórica puntual sino que modificamos nuestras prácticas acorde a las necesidades del momento. En tanto adultxs, entendemos que somos sujetxs que fuimos formadxs en instituciones que delinearon intensamente ciertos patrones de comportamiento que desde nuestra perspectiva no nos permiten desarrollarnos naturalmente, pero creemos que estamos a tiempo de reconstruirlos, por lo que el recorrido en esta experiencia educacional será también para lxs adultxs que somos parte de ella, a fin de mantener coherencia entre lo propuesto y las prácticas familiares y crecer nosotros también en esta perspectiva de educación.
+> Explicar lo que hacemos hoy en día.
 
-###  Principios Fundamentales: 
+Juego libre
+
+Direccionalidad, propuestas de los adultos, etc.
+
+3 encuentros semanales; 3 horas de aprendizaje y juego libre.
+
+Una pareja pedagógica, conformada preferentemente por hombre y mujer (y sin hijxs en común), acompaña a lxs niñxs durante ese tiempo. Los encuentros pueden ser en la casa Ualala, en algún espacio público o participando de alguna actividad que se proponga.
+
+
+### Principios Fundamentales
 
 Integral: promoviendo procesos educativos que reconozcan las dimensiones intelectuales, físicas, biológicas, políticas, emocionales y espirituales; buscando el pleno desarrollo de las mismas y un entendimiento holístico de la realidad.
 
@@ -30,8 +56,41 @@ Desescolarizante: centrado en sostener colectivamente la educación no escolariz
 
 Orgánico: entendiendo a UALALA como una experiencia viva, dinámica y cambiante, que también puede dejar de existir.
 
-### Cómo nos organizamos?
 
-Lxs peques cuentan con 3 encuentros semanales; 3 horas de aprendizaje y juego libre.
+### Acciones con la comunidad
 
-Una pareja pedagógica, conformada preferentemente por hombre y mujer (y sin hijxs en común), acompaña a lxs niñxs durante ese tiempo. Los encuentros pueden ser en la casa Ualala, en algún espacio público o participando de alguna actividad que se proponga.
+EPEP
+
+Ciclo de conversatorios
+
+### Nuestra historia
+
+> Organizar el proceso de cronológico, conectarlo con la bitácora, de tal forma que la historia es el blog/bitácora.
+
+> Convertir lo que sigue en la primera entrada del blog.
+
+El proyecto nace en Julio de 2013 frente a la inquietud de un par de familias respecto de la escolarización de nuestrxs hijxs. Impulsadxs por la decisión de no incluir a lxs niñxs en el sistema educativo oficial, decidimos tomar a tiempo las riendas del asunto y comenzar a dar forma a una nueva idea de educación. Tras unas cuantas reuniones se pautaron las bases que luego sirvieron (y sirven) como fundamento para la incorporación de nuevas familias y personas interesadas, lo que permitió la conformación del grupo de niñxs y la puesta en marcha de sus encuentros.
+
+En principio, se estudiaron las diferentes pedagogías y experiencias llevadas adelante en diferentes lugares, con el propósito de encontrar la que se adecuase más a nuestros intereses, necesidades e ideales. Luego de una sucesión de reuniones decidimos definirnos en el marco de la corriente libre y rescatar de las otras pedagogías todo aquello que nos enriquezca. De esta manera, no nos encasillamos dentro de una estructura teórica puntual sino que modificamos nuestras prácticas acorde a las necesidades del momento.
+
+> NO VA ACA: En tanto adultxs, entendemos que somos sujetxs que fuimos formadxs en instituciones que delinearon intensamente ciertos patrones de comportamiento que desde nuestra perspectiva no nos permiten desarrollarnos naturalmente, pero creemos que estamos a tiempo de reconstruirlos, por lo que el recorrido en esta experiencia educacional será también para lxs adultxs que somos parte de ella, a fin de mantener coherencia entre lo propuesto y las prácticas familiares y crecer nosotros también en esta perspectiva de educación.
+
+## Participa
+
+* Formas de participación
+> Aclarar lo de la escolarización
+
+
+## Apoyanos
+
+* Compra colectiva
+* Donación
+  * Materiales
+* "Padrinos"
+
+## Contacto
+
+* Dirección de la CASA UALALA
+* Correo electrónico
+* Facebook
+* Twitter
