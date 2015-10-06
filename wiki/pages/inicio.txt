@@ -70,8 +70,3 @@
 
 * E-mail público: hola@ualala.org
 * Lista de correo interna: ualala-general@lists.ourproject.org
-
-## Otros recursos
-
-* [[Agenda de contactos de prensa]]
-* [[https://www.pinterest.com/augustocosso/ualala/|Tablero de Pinterest]]
