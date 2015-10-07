@@ -22,7 +22,7 @@ Es el grupo abocado a mejorar la Casa, acondicionarla y mantener la limpieza.  M
   * Arreglar el baño
   * Mejorar el portón
   * Instalar una estufa a leña
- <del> * Armar el arenero</del>
+  * <del>Armar el arenero</del>
   * Cortar pasto
   * Limpiar el patio del costado
   * Limpiar canaleta
