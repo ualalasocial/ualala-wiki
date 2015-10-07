@@ -15,16 +15,23 @@ Es el grupo abocado a mejorar la Casa, acondicionarla y mantener la limpieza.  M
 
 ## Listado de tareas
 
-* Limpieza de la casa 3
-* Limpiar la parte de atras de la casa
-* Esperar la lista de materiales
-* Acondicionar la instalación eléctrica, iluminar el patio
-* Acondicionar los marcos
-* Limpiar y acondicionar el bajo mesada
-* Arreglar el baño
-* Mejorar el portón
-* Instalar una estufa a leña
-* Armar el arenero
+  * Limpieza de la casa 3
+  * Esperar la lista de materiales
+  * Acondicionar los marcos
+  * Limpiar y acondicionar el bajo mesada
+  * Arreglar el baño
+  * Mejorar el portón
+  * Instalar una estufa a leña
+ <del> * Armar el arenero</del>
+  * Cortar pasto
+  * Limpiar el patio del costado
+  * Limpiar canaleta
+  * Sacar antena de DTV
+  * Soldar bisagra del porton
+  * Cambiar foco de la entrada
+  * Poner luz entre los pinos
+  * Armar estanterias
+  * Acomodar heladera
 
 ## Páginas
 
@@ -35,13 +42,4 @@ Es el grupo abocado a mejorar la Casa, acondicionarla y mantener la limpieza.  M
 
 ## Reuniones
 
-## Cosas por hacer
-  * Cortar pasto
-  * Limpiar el patio del costado
-  * Limpiar canaleta
-  * Sacar antena de DTV
-  * Soldar bisagra del porton
-  * Cambiar foco de la entrada
-  * Poner luz entre los pinos
-  * Armar estanterias
-  * Acomodar heladera
+
