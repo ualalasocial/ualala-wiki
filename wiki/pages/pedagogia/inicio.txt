@@ -8,8 +8,10 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 * SAMPA (Titular)
 * NELIA (Titular)
 * FRANCO (Titular)
-* DARIO (Suplente)
 * JULI (Suplente)
+
+* CIN (Suplente temporal)((Hasta que definamos un suplente fijo hombre))
+* ED (Suplente temporal)((Hasta que definamos un suplente fijo hombre))
 
 ## Listado de tareas
 
