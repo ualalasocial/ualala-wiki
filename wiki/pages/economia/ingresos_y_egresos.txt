@@ -8,4 +8,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 12-09-15 | Dr.bio-destapacañerías- |0|30|
 | 15-09-15 | Venta de cajones de verduras |500|0|
 | 19-09-15 | Venta en Feria de ropa |390.6|0|
+| 07-10-15 | Compra de reflector((Pagó Franco)) |0|140|
 ^ TOTAL    ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
