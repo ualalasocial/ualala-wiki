@@ -16,4 +16,4 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 
 
 
-^ TOTAL    ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
+^ TOTAL    ^ $ 80 ^^^
