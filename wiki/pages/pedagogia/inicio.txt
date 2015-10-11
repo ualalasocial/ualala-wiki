@@ -13,6 +13,11 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 * CIN (Suplente temporal)((Hasta que definamos un suplente fijo hombre))
 * ED (Suplente temporal)((Hasta que definamos un suplente fijo hombre))
 
+### Interesados en sumarse
+
+* ELI
+* VANE
+
 ## Listado de tareas
 
 * Recuperar lo trabajado en el proceso de formación
