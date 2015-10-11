@@ -16,4 +16,4 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 
 
 
-^ TOTAL    ^ $ 80 ^^^
+^ TOTAL    ^ $ 1807 ^^^
