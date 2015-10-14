@@ -12,13 +12,15 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 
 ## Listado de tareas
 
-* Pasar en limpio la nueva forma de organización de Ualala, contando que hay horarios fijos y posibilidad de participar de otra forma.
 * Publicar y mantener el sitio web
+  * Pasar en limpio la nueva forma de organización de Ualala, contando que hay horarios fijos y posibilidad de participar de otra forma.
 * Plan de comunicación para el crecimiento
 * Capacitar al grupo en el uso del wiki
   * Tutorial?
 * Definir identidad gráfica
   * Crear piezas gráficas para las redes sociales
+* Armar modelo de carta para pedir donaciones
+* Armar comunicado para pedir libros
 
 ## Páginas
 
