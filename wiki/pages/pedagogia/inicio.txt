@@ -20,7 +20,13 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 
 ## Registro del proceso de lxs peques
 
+* [[pedagogia:proceso:mora|Morita]]
+* [[pedagogia:proceso:dante|Dante]]
+* [[pedagogia:proceso:rena|Rena]]
 * [[pedagogia:proceso:mainu|Mainu]]
+* [[pedagogia:proceso:magna|Magna]]
+* [[pedagogia:proceso:liber|Liber]]
+* [[pedagogia:proceso:ebar|Ebar]]
 
 ## Listado de tareas
 
