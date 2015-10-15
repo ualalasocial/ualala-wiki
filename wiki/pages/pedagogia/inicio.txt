@@ -18,6 +18,10 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 * ELI
 * VANE
 
+## Registro del proceso de lxs peques
+
+* [[pedagogia:proceso:mainu|Mainu]]
+
 ## Listado de tareas
 
 * Recuperar lo trabajado en el proceso de formación
