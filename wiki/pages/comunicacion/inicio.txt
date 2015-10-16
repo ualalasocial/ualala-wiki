@@ -6,9 +6,8 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 
 * YOR
 * FRANCO
-* DARIO
 * ED
-* DAMIAN
+
 
 ## Listado de tareas
 
