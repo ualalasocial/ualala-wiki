@@ -21,6 +21,7 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
   * Crear piezas gráficas para las redes sociales
 * Armar modelo de carta para pedir donaciones
 * Armar comunicado para pedir libros
+* Armar carta para comunicar sobre reformas de la casa y negociar plata de alquiler
 
 ## Páginas
 
