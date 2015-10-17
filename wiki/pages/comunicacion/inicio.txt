@@ -6,9 +6,8 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 
 * YOR
 * FRANCO
-* DARIO
 * ED
-* DAMIAN
+
 
 ## Listado de tareas
 
@@ -19,8 +18,11 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
   * Tutorial?
 * Definir identidad gráfica
   * Crear piezas gráficas para las redes sociales
-* Armar modelo de carta para pedir donaciones
-* Armar comunicado para pedir libros
+* <del>Armar modelo de carta para pedir donaciones</del>  (Enviada como adjunto a mail de COM)
+* <del>Armar comunicado para pedir libros</del>
+* Armar carta para comunicar sobre reformas de la casa y negociar plata de alquiler
+
+
 
 ## Páginas
 
