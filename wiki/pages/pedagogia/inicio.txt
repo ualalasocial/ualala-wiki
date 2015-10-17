@@ -17,12 +17,12 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 
 * ELI
 
-## Registro de cada encuentro
+## Registros
+### Registro de cada encuentro
 
 * [[pedagogia:encuentro:2015-10-16|Encuentro del Viernes 16/10/15]]
 
-
-## Registro del proceso de lxs peques
+### Registro del proceso de lxs peques
 
 * [[pedagogia:proceso:mora|Morita]]
 * [[pedagogia:proceso:dante|Dante]]
