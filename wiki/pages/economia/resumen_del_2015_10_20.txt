@@ -19,6 +19,7 @@ Despues de charlar un raaaaato sobre cómo hacerlo resolvemos dividirnos en TRES
 Miembros: Nelia y Eli
 
 Se encarga de: 
+
 * Crear la planilla de compradores/reparto para cada compra (nombre, dirección, telefono -compañia-, cobrar… ,observaciones) 
 * Sostener la comunicación con les compradores 
 * Coordinar cobranza del cajón((La propuesta es que este paso tienda a desaparecer; pudiendo resolverlo de en dos etapas 1) que quien pueda pague por adelantado el sgte. al momento de la entrega del cajón) ; 2) que ualala vaya teniendo un fondo-colchon monetario que nos permita hacer la compra sin necesidad de salir a buscarlo antes -se recupera el dinero al momento de la entrega.))
@@ -29,6 +30,7 @@ Se encarga de:
 Miembros: Eli/Rafa, Cintia, Mailén
 
 Se encarga de:
+
 * Conseguir cajas de bananas, acercarlas a Ualala. 
 * Coordinar con los empleados del Galpón la entrega de mercadería en Casa Ualala.
 * Recibir la mercadería en Casa Ualala (martes 13 hs.)
@@ -39,6 +41,7 @@ Se encarga de:
 Miembros: Hernan y Gonza
 
 Se encarga de:
+
 * Cargar cajones en Casa Ualala 
 * Repartir todos los cajones ( horario de reparto: martes de 17:30 a 21.30 hs.) 
 * Cobrar cada cajón((Relacionado con la nota 1: objetivo: lograr eliminar la ronda de cobranza, que se resuelva cuando entregamos el cajón.))
