@@ -13,4 +13,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 02-10-15 | Arena |0|655|
 | 03-10-15 | Materiales para arenero |0|225|
 | 07-10-15 | Compra de reflector((Pagó Franco)) |0|140|
+| 14-10-15 | Compra frutas y verduras |1325|0|
+| 16-10-15 | Alquiler Octubre |0|1000|
+| 16-10-15 | Compra de burlete((Pagó gonza)) |0|97|
 ^ TOTAL    ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
