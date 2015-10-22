@@ -13,4 +13,4 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 02-10-15 | Arena |0|655|
 | 03-10-15 | Materiales para arenero |0|225|
 | 07-10-15 | Compra de reflector((Pagó Franco)) |0|140|
-^ TOTAL    ^ $ 1807 ^^^
+^ TOTAL    ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
