@@ -17,7 +17,7 @@ Es el grupo abocado a conseguir el dinero para cubrir las necesidades del proyec
 
 * [[economia:ingresos_y_egresos|Registro de ingresos y egresos]]
 * [[Compra colectiva - listado de participantes]]
-* [[Compra coloectiva - mail novedades]]
+* [[Compra colectiva - mail novedades]]
 
 
 ## Listado de tareas
