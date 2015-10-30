@@ -20,22 +20,24 @@ Es el grupo abocado a mejorar la Casa, acondicionarla y mantener la limpieza.  M
   * Limpieza de la casa 3
   * Esperar la lista de materiales
   * Acondicionar los marcos
-  * Limpiar y acondicionar el bajo mesada
+  * <del>Limpiar y acondicionar el bajo mesada</del>
   * Arreglar el baño
   * Mejorar el portón
   * Instalar una estufa a leña
   * <del>Armar el arenero</del>
   * Cortar pasto
-  * Limpiar el patio del costado
+  *<del> Limpiar el patio del costado</del>
   * Limpiar canaleta
-  * Sacar antena de DTV
+  * <del>Sacar antena de DTV</del>
   * Soldar bisagra del porton
-  * Cambiar foco de la entrada
+  * <del>Cambiar foco de la entrada</del>
   * Poner luz entre los pinos
   * Armar estanterias
-  * Acomodar heladera
+  * <del>Acomodar heladera</del>
   * Espacios para guardar cosas
   * Cerramiento del frente 
+  *<del> Acomodar cajonera de la cocina</del>
+
 
 ## Páginas
 
