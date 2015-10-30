@@ -36,6 +36,7 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 * [[pedagogia:proceso:magna|Magna]]
 * [[pedagogia:proceso:liber|Liber]]
 * [[pedagogia:proceso:ebar|Evar]]
+* [[pedagogia:proceso:male|Male]]
 
 ## Listado de tareas
 
