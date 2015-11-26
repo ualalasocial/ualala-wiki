@@ -23,4 +23,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 05-11-15 | 2 cajas de lapices, 1 caja de fibras y plasticola grande((Pagó Franco)) |0|248|
 | 09-11-15 | Alquiler noviembre |0|1000|
 | 09-11-15 | Venta de cajones de verduras |1575|0|
+| 10-11-15 | Acrílicos ((Pagó Yorg)) |0|90|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
