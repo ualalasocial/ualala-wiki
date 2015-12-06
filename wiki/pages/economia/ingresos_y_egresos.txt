@@ -21,7 +21,10 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 28-10-15 | Madera para estante,tornillos,tarugos y repuesto para mochila de inodoro |0|505|
 | 29-10-15 | Venta de cajones de verduras |1645|0|
 | 05-11-15 | 2 cajas de lapices, 1 caja de fibras y plasticola grande((Pagó Franco)) |0|248|
-| 09-11-15 | Alquiler noviembre |0|1000|
+| 07-11-15 | Alquiler noviembre |0|1000|
 | 09-11-15 | Venta de cajones de verduras |1575|0|
 | 10-11-15 | Acrílicos ((Pagó Yorg)) |0|90|
+| 21-11-15 | Art de fereteria (fluido manchester+tornillos)  |0|156.5|
+| 24-11-15 | Venta de cajones de verdura |1100|0|
+| 03-12-15 | Art de limpieza  |0|41|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
