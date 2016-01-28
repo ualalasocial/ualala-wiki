@@ -29,4 +29,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 03-12-15 | Art de limpieza  |0|41|
 | 08-12-15 | Venta de cajones de verdura |1300|0|
 | 11-12-15 | Pago alquiler diciembre - enero  |0|2000|
+| 22-12-15 | Venta de cajones de verdura |925|0|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
