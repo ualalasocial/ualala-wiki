@@ -1,3 +1,6 @@
+* Version en PDF: http://wiki.ualala.org/lib/exe/fetch.php/comunicacion:mensaje-nuevos-participantes.pdf
+
+```
 ¡Hola!
 
 Desde UALALA queremos aprovechar esta oportunidad para desearte unas muy felices fiestas y agradecerte el impulso que con tu participación has dado a esta Experiencia Educativa.
@@ -14,3 +17,4 @@ Ante cualquier duda o sugerencia, escribinos a apoyo@ualala.org. También podes 
 
 
 ¡Un saludo afectuoso del Colectivo de UALALA!
+```
