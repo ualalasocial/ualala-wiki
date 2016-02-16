@@ -33,4 +33,6 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 23-12-15 | Pipeta  |0|100|
 | 23-12-15 | 2 libros anti prince |0|160|
 | 23-12-15 | Cloro  |0|105|
+| 02-02-16 | Venta de cajones de verdura |720|0|
+| 15-02-16 | Venta de cajones de verdura |840|0|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
