@@ -17,9 +17,6 @@ Es el grupo abocado a conseguir el dinero para cubrir las necesidades del proyec
 
 * [[economia:ingresos_y_egresos|Registro de ingresos y egresos]]
 * [[economia:cajones|Venta de cajones de verduras]]
-* [[Compra colectiva - listado de participantes]]
-* [[Compra colectiva - peso y productos cajon de $350]]
-
 
 ## Listado de tareas
 
