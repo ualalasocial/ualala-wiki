@@ -29,6 +29,7 @@
 
 ## Resumen de asambleas 
 
+* [[Asambleas:Resumen del 2016/02/29]] | Cambios en dinámica de los encuentros y enfoque general del proyecto
 * [[Asambleas:Resumen del 2016/02/19]] | Cambios en economia, arranque del año
 * [[Asambleas:Resumen del 2015/12/18]] | ??
 * [[Asambleas:Resumen del 2015/12/10]] | ??
