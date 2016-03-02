@@ -18,6 +18,7 @@ Es el grupo abocado a conseguir el dinero para cubrir las necesidades del proyec
 * [[economia:ingresos_y_egresos|Registro de ingresos y egresos]]
 * [[Compra colectiva - listado de participantes]]
 * [[Compra colectiva - mail novedades]]
+* [[Compra colectiva - peso y productos cajon de $350]]
 
 
 ## Listado de tareas
