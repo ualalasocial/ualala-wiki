@@ -42,4 +42,6 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 02-03-16 | compra veneno de ratas   |0|96|
 | 02-03-16 | gastos de impresion   |0|100|
 | 07-03-16 | Pago alquiler febrero marzo  |0|2000|
+| 08-03-16 | pinceles y temperas   |0|143.5|
+| 08-03-16 | pintura pizarron   |0|44|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
