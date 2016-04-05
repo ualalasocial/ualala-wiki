@@ -47,4 +47,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 15-03-16 | Venta de cajones de verdura |1900|0|
 | 08-03-16 | Alcancia de ualala   |0|200|
 | 29-03-16 | Venta de cajones de verdura |1200|0|
+| 04-03-16 | participacion epep   |0|700|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
