@@ -50,6 +50,9 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 * [[pedagogia:proceso:liber|Liber]]
 * [[pedagogia:proceso:ebar|Evar]]
 * [[pedagogia:proceso:male|Male]]
+* [[pedagogia:proceso:agatha|Agatha]]
+* [[pedagogia:proceso:samai|Samai]]
+* [[pedagogia:proceso:alegria|Alegria]]
 
 ## Listado de tareas
 
