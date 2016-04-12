@@ -52,6 +52,8 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 * [[pedagogia:proceso:agatha|Agatha]]
 * [[pedagogia:proceso:samai|Samai]]
 * [[pedagogia:proceso:alegria|Alegria]]
+* [[pedagogia:proceso:antu|Antu]]
+* [[pedagogia:proceso:luna|Luna]]
 
 ## Listado de tareas
 
