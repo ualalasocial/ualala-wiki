@@ -75,11 +75,11 @@ Puede ser armar un calendario con la atividades necesarias cada mes. Que quede c
 
 El lunes que viene armamos la cartelra y la metodología para la división de tareas.  Franco va a traer una dinamica de trabajo (open space) para hacerlo colectivamente.
 
-## En cuanto a conseguir un nuevo espacio
+#### En cuanto a conseguir un nuevo espacio
 
 Hay que acelerar el proceso de mudar UALALA. Conversamos sobre vias para conseguir otro espacio, y empezar a activar acciones concretas
 
-### Estrategia 1: posicionar UALALA a nivel social incrementando su capital simbolico
+##### Estrategia 1: posicionar UALALA a nivel social incrementando su capital simbolico
 
 Nelia: Necesidad concreta de que ualala busque otro lugar. Para lograrlo in pagar mucho necesitamos visibilizar el proyecto que haga q alguie nos done el espacio. Abrir espacios dentro de ualala donde pasen otras cosas más alla de los encuentros. 
 
@@ -92,7 +92,7 @@ Nelia: Es imprtante que lo que hagamos esté alineado y sea coherente con la imp
 
 * Para la proxima, cada uno deberia traer respondido: ¿qué cosa se hacer y quiero compartir? :!:
 
-### Estrategia 2: generar dinero para alquilar algo mas grande
+##### Estrategia 2: generar dinero para alquilar algo mas grande
 
 Se planteo esa posiblidad, pero no la desarrollamos.
 
