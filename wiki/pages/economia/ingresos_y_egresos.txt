@@ -12,7 +12,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 28-09-15 | Venta de cajones de verduras |625|0|
 | 02-10-15 | Arena |0|655|
 | 03-10-15 | Materiales para arenero |0|225|
-| 07-10-15 | Reflector((Pagó Franco)) |0|140|
+| 07-10-15 | Reflector |0|140|
 | 12-10-15 | Cinta ancha y clavos |0|64|
 | 14-10-15 | Venta de cajones de verduras |1275|0|
 | 16-10-15 | Alquiler Octubre |0|1000|
@@ -20,10 +20,10 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 28-10-15 | Lavandina |0|18|
 | 28-10-15 | Madera para estante,tornillos,tarugos y repuesto para mochila de inodoro |0|505|
 | 29-10-15 | Venta de cajones de verduras |1645|0|
-| 05-11-15 | 2 cajas de lapices, 1 caja de fibras y plasticola grande((Pagó Franco)) |0|248|
+| 05-11-15 | 2 cajas de lapices, 1 caja de fibras y plasticola grande |0|248|
 | 07-11-15 | Alquiler noviembre |0|1000|
 | 09-11-15 | Venta de cajones de verduras |1575|0|
-| 10-11-15 | Acrílicos ((Pagó Yorg)) |0|90|
+| 10-11-15 | Acrílicos |0|90|
 | 21-11-15 | Art de fereteria (fluido manchester+tornillos)  |0|156.5|
 | 24-11-15 | Venta de cajones de verdura |1100|0|
 | 03-12-15 | Art de limpieza  |0|41|
@@ -48,4 +48,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 08-03-16 | Alcancia de ualala   |0|200|
 | 29-03-16 | Venta de cajones de verdura |1200|0|
 | 04-03-16 | participacion epep   |0|700|
+| 04-03-16 | Renovacion x 1 año de "ualala.org"((Pagó Franco, reintegrar!))   |0|215|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
