@@ -41,20 +41,20 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 
 ### Registro del proceso de lxs peques
 
-* [[pedagogia:proceso:mora|Morita]]
-* [[pedagogia:proceso:dante|Dante]]
-* [[pedagogia:proceso:rena|Rena]]
-* [[pedagogia:proceso:mainu|Mainu]]
-* [[pedagogia:proceso:magna|Magna]]
-* [[pedagogia:proceso:liber|Liber]]
-* [[pedagogia:proceso:ebar|Evar]]
-* [[pedagogia:proceso:male|Male]]
-* [[pedagogia:proceso:agatha|Agatha]]
-* [[pedagogia:proceso:samai|Samai]]
-* [[pedagogia:proceso:alegria|Alegria]]
-* [[pedagogia:proceso:antu|Antu]]
-* [[pedagogia:proceso:luna|Luna]]
-* [[pedagogia:proceso:greta|Greta]]
+1. [[pedagogia:proceso:ebar|Evar]] (9)
+1. [[pedagogia:proceso:mora|Morita]] (4)
+1. [[pedagogia:proceso:dante|Dante]] (4)
+1. [[pedagogia:proceso:magna|Magna]] (4)
+1. [[pedagogia:proceso:male|Male]] (4)
+1. [[pedagogia:proceso:mainu|Mainu]] (3)
+1. [[pedagogia:proceso:agatha|Agatha]] (4)
+1. [[pedagogia:proceso:liber|Liber]] (2)
+1. [[pedagogia:proceso:rena|Rena]] (2)
+1. [[pedagogia:proceso:samai|Samai]] (1)
+1. [[pedagogia:proceso:alegria|Alegria]] (1)
+1. [[pedagogia:proceso:antu|Antu]] (1)
+1. [[pedagogia:proceso:luna|Luna]] (1)
+1. [[pedagogia:proceso:greta|Greta]] (8m)
 
 ## Listado de tareas
 
