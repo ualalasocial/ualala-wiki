@@ -54,6 +54,7 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 * [[pedagogia:proceso:alegria|Alegria]]
 * [[pedagogia:proceso:antu|Antu]]
 * [[pedagogia:proceso:luna|Luna]]
+* [[pedagogia:proceso:greta|Greta]]
 
 ## Listado de tareas
 
