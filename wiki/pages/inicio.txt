@@ -81,6 +81,23 @@
 
 ## Miembros
 
+1. [[pedagogia:proceso:ebar|Evar]] (9)
+1. [[pedagogia:proceso:mora|Morita]] (4)
+1. [[pedagogia:proceso:dante|Dante]] (4)
+1. [[pedagogia:proceso:magna|Magna]] (4)
+1. [[pedagogia:proceso:male|Male]] (4)
+1. [[pedagogia:proceso:mainu|Mainu]] (3)
+1. [[pedagogia:proceso:agatha|Agatha]] (4)
+1. [[pedagogia:proceso:liber|Liber]] (2)
+1. [[pedagogia:proceso:rena|Rena]] (2)
+1. [[pedagogia:proceso:samai|Samai]] (1)
+1. [[pedagogia:proceso:alegria|Alegria]] (1)
+1. [[pedagogia:proceso:antu|Antu]] (1)
+1. [[pedagogia:proceso:luna|Luna]] (1)
+1. [[pedagogia:proceso:greta|Greta]] (8m)
+
+----
+
 1. Nelia:  249 4621241
 1. Hernan: 249 4324283
 1. Cintia: 221 5482295
@@ -96,27 +113,12 @@
 1. Andres: 249 4245379
 1. Eli:    228 1556462
 1. Rafa:
-1. Esteban:249 4497400
+1. Esteban: 249 4497400
 1. Sofia:  249 4466894
 1. Melina: 249 4003236
 1. Marcelo:
 1. Agustina:
 1. Alejandra: 294 4352450
-
-1. [[pedagogia:proceso:mora|Morita]]
-1. [[pedagogia:proceso:dante|Dante]]
-1. [[pedagogia:proceso:rena|Rena]]
-1. [[pedagogia:proceso:mainu|Mainu]]
-1. [[pedagogia:proceso:magna|Magna]]
-1. [[pedagogia:proceso:liber|Liber]]
-1. [[pedagogia:proceso:ebar|Evar]]
-1. [[pedagogia:proceso:male|Male]]
-1. [[pedagogia:proceso:agatha|Agatha]]
-1. [[pedagogia:proceso:samai|Samai]]
-1. [[pedagogia:proceso:alegria|Alegria]]
-1. [[pedagogia:proceso:antu|Antu]]
-1. [[pedagogia:proceso:luna|Luna]]
-
 
 ### Correos
 
