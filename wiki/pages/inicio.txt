@@ -81,41 +81,42 @@
 
 ## Miembros
 
-# Nelia:  249 4621241
-# Hernan: 249 4324283
-# Cintia: 221 5482295
-# Edgard: 249 4631017
-# Zampa:  249 4551401
-# Yorsha: 249 4550247
-# Franco: 249 4020259
-# Juli:   249 4309248
-# Manu:   249 4617373
-# Gonza:  249 4028269
-# Mai:    249 4695089
-# Vanesa: 249 4616278
-# Andres: 249 4245379
-# Eli:    228 1556462
-# Rafa:
-# Esteban:249 4497400
-# Sofia:  249 4466894
-# Melina: 249 4003236
-# Marcelo:
-# Agustina:
-# Alejandra: 294 4352450
+1. Nelia:  249 4621241
+1. Hernan: 249 4324283
+1. Cintia: 221 5482295
+1. Edgard: 249 4631017
+1. Zampa:  249 4551401
+1. Yorsha: 249 4550247
+1. Franco: 249 4020259
+1. Juli:   249 4309248
+1. Manu:   249 4617373
+1. Gonza:  249 4028269
+1. Mai:    249 4695089
+1. Vanesa: 249 4616278
+1. Andres: 249 4245379
+1. Eli:    228 1556462
+1. Rafa:
+1. Esteban:249 4497400
+1. Sofia:  249 4466894
+1. Melina: 249 4003236
+1. Marcelo:
+1. Agustina:
+1. Alejandra: 294 4352450
 
-# [[pedagogia:proceso:mora|Morita]]
-# [[pedagogia:proceso:dante|Dante]]
-# [[pedagogia:proceso:rena|Rena]]
-# [[pedagogia:proceso:mainu|Mainu]]
-# [[pedagogia:proceso:magna|Magna]]
-# [[pedagogia:proceso:liber|Liber]]
-# [[pedagogia:proceso:ebar|Evar]]
-# [[pedagogia:proceso:male|Male]]
-# [[pedagogia:proceso:agatha|Agatha]]
-# [[pedagogia:proceso:samai|Samai]]
-# [[pedagogia:proceso:alegria|Alegria]]
-# [[pedagogia:proceso:antu|Antu]]
-# [[pedagogia:proceso:luna|Luna]]
+1. [[pedagogia:proceso:mora|Morita]]
+1. [[pedagogia:proceso:dante|Dante]]
+1. [[pedagogia:proceso:rena|Rena]]
+1. [[pedagogia:proceso:mainu|Mainu]]
+1. [[pedagogia:proceso:magna|Magna]]
+1. [[pedagogia:proceso:liber|Liber]]
+1. [[pedagogia:proceso:ebar|Evar]]
+1. [[pedagogia:proceso:male|Male]]
+1. [[pedagogia:proceso:agatha|Agatha]]
+1. [[pedagogia:proceso:samai|Samai]]
+1. [[pedagogia:proceso:alegria|Alegria]]
+1. [[pedagogia:proceso:antu|Antu]]
+1. [[pedagogia:proceso:luna|Luna]]
+
 
 ### Correos
 
