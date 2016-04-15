@@ -1,7 +1,7 @@
 
 * Version en PDF: http://wiki.ualala.org/lib/exe/fetch.php/comunicacion:mensaje-nuevos-participantes.pdf
 
-```
+
 ¡Hola!
 
 Desde UALALA queremos aprovechar esta oportunidad para desearte unas muy felices fiestas y agradecerte el impulso que con tu participación has dado a esta Experiencia Educativa.
@@ -13,9 +13,8 @@ La compra colectiva de verduras y frutas, de la que vos sos parte, es una de las
 Te agradecemos por tu compra y esperamos que sigues acompañándonos de acá en adelante. Recordá que los Cajones se entregan cada 15 díás.
 
 Ante cualquier duda o sugerencia, escribinos a apoyo@ualala.org. También podes seguirnos en redes sociales: 
-* Facebook: http://fb.me/ualalasocial
-* Twitter: http://twitter.com/ualalasocial
+Facebook: http://fb.me/ualalasocial 
+Twitter: http://twitter.com/ualalasocial 
 
 
 ¡Un saludo afectuoso del Colectivo de UALALA!
-```
