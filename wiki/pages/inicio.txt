@@ -26,8 +26,9 @@
 
 ## Resumen de asambleas 
 
-* [[Asambleas:Resumen del 2016/04/11]] | PROXIMA!
+* [[Asambleas:Resumen del 2016/04/18]] | PROXIMA!
 ----
+* [[Asambleas:Resumen del 2016/04/11]] | Organización del proyecto. tareas pendientes
 * [[Asambleas:Resumen del 2016/04/04]] | Participación en EPEP, animales
 * [[Asambleas:Resumen del 2016/03/28]] | Uso de los espacios, alimentación
 * [[Asambleas:Resumen del 2016/03/21]] | EPEP, calendario de encuentros
