@@ -43,6 +43,7 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 
 * [[comunicacion:gacetilla_venta_verduras|Gacetilla para difundir la venta de verduras]]
 * [[comunicacion:nota nuevxs compradores cajon|nota de presentacion venta cajones]]
+* [[Nota de pedidos de espacio]]
 
 ## Reuniones
 
