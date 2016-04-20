@@ -129,6 +129,7 @@ Las funciones de los acompañantes son las siguientes:
 * Cargar registros de encuentros pendientes
 * Hacer cartelera sobre el rol de los acompañantes
 * Identificar materiales para comprar
+* Avanzar con la propuesta de formación de los sabados
 * Conversar con el resto la idea de usar la Casa 3
 * Averiguar la disponibilidad del Centro Cultural del Bicentenario
 
