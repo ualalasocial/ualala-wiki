@@ -31,8 +31,6 @@ Entre Roca y 11 de septiembre
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461273910865!6m8!1m7!1sQkhzPwalSq05BHmP8rXWhA!2m2!1d-37.31314670828267!2d-59.13269583947562!3f119.8396183542644!4f-5.668552165931786!5f0.7936923136952563" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
 
 
-<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461273910865!6m8!1m7!1sQkhzPwalSq05BHmP8rXWhA!2m2!1d-37.31314670828267!2d-59.13269583947562!3f119.8396183542644!4f-5.668552165931786!5f0.7936923136952563" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
-
 ## Cnel. Brandsen 1149
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461274376609!6m8!1m7!1sD5DM5I0V7QubQ8LR5mHctw!2m2!1d-37.32350441841568!2d-59.15045223517394!3f89.73364819831174!4f-3.3826932376807974!5f1.1924812503605782" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
