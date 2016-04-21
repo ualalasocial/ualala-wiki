@@ -49,4 +49,8 @@ Entre Roca y 11 de septiembre
 
 ## Pinto 236
 
-<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461280810484!6m8!1m7!1sq9t9vtLILF9fb7wYzyqIVg!2m2!1d-37.32940128798761!2d-59.14088913733391!3f335.8993642205492!4f-2.588761229453752!5f1.1904246079962488" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>			</html>
+<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461280810484!6m8!1m7!1sq9t9vtLILF9fb7wYzyqIVg!2m2!1d-37.32940128798761!2d-59.14088913733391!3f335.8993642205492!4f-2.588761229453752!5f1.1904246079962488" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
+
+## Av. Avellaneda 1012 (aprox)
+
+<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461281671352!6m8!1m7!1sHrj_iz4wOpBcy1vRcGZXNQ!2m2!1d-37.33125618967643!2d-59.12605021377153!3f1.4015259365028048!4f-5.984913839524808!5f1.7208376885506018" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
