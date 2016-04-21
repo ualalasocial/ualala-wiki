@@ -26,7 +26,7 @@ Entre Roca y 11 de septiembre
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461273245577!6m8!1m7!1sKvi-TUX8bPqw9VwlEh5mfA!2m2!1d-37.31038024547389!2d-59.12921108159095!3f164.58607141040378!4f-5.216430491536258!5f1.1924812503605782" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
 
-## Uriburu 1255 (aprox## Uriburu 1255 (aprox)
+## Uriburu 1255 (aprox)
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461273910865!6m8!1m7!1sQkhzPwalSq05BHmP8rXWhA!2m2!1d-37.31314670828267!2d-59.13269583947562!3f119.8396183542644!4f-5.668552165931786!5f0.7936923136952563" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
 
@@ -38,3 +38,7 @@ Entre Roca y 11 de septiembre
 ## Av. Peron 1100 (aprox)
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461276978446!6m8!1m7!1slhElU19hzRSzsjT-9oLAWQ!2m2!1d-37.32290311635789!2d-59.14892881123931!3f242.76331633849838!4f-6.736002039170316!5f1.1924812503605782" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
+
+## San Lorenzo 957 (aprox)
+
+<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461279560301!6m8!1m7!1s2hdWfgSwCDGzs27kcruo6w!2m2!1d-37.3242949360651!2d-59.14462215367539!3f83.48372266803585!4f1.0398139993049114!5f1.1924812503605782" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
