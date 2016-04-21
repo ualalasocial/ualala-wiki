@@ -1,16 +1,4 @@
 ## Temas propuestos
 
 * Acondicionar casa 3 para usar como espacio para los encuentros de los lunes
-
-### Espacios para preguntar en ARBA:
-
-#### Callao 897
-#### Saavedra 421
-
-<html><img src="http://maps.googleapis.com/maps/api/streetview?size=400x400&pano=NDjIjfNc82rnnbXHSF-sBw&heading=54.76686386693253&fov=45&pitch=-0.6350844287269738&sensor=false" /></html>
-
-#### Colón 1452
-
-#### Estancia abandonada en Payró al 300
-
-<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461263272884!6m8!1m7!1sn3i95w5lnlHbdM1dx3cx3w!2m2!1d-37.33463698594507!2d-59.14740373305868!3f291.38264654490933!4f1.4333392657697317!5f1.7837347679208873" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
+* Espacios para preguntar en ARBA: http://wiki.ualala.org/doku.php/infraestructura:busqueda_de_casa_ualala_2
