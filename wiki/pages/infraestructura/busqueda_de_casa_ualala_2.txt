@@ -15,3 +15,13 @@ En esta página recopilamos información sobre posibles espacios para la Casa UA
 ## Estancia abandonada en Payró al 300
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461263272884!6m8!1m7!1sn3i95w5lnlHbdM1dx3cx3w!2m2!1d-37.33463698594507!2d-59.14740373305868!3f291.38264654490933!4f1.4333392657697317!5f1.7837347679208873" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
+
+## Garibaldi 1350 (aprox)
+
+Entre Roca y 11 de septiembre
+
+<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461272741838!6m8!1m7!1spvzIyUfLKSGfPSBBGg2_4w!2m2!1d-37.31732159661477!2d-59.1285355828031!3f340.1689569748043!4f-5.623300541586687!5f1.0598445338435338" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
+
+## Arana 1559 (aprox)
+
+<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461273245577!6m8!1m7!1sKvi-TUX8bPqw9VwlEh5mfA!2m2!1d-37.31038024547389!2d-59.12921108159095!3f164.58607141040378!4f-5.216430491536258!5f1.1924812503605782" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
