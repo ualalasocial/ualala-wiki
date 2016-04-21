@@ -1,11 +1,16 @@
 ## Temas propuestos
 
 * Acondicionar casa 3 para usar como espacio para los encuentros de los lunes
-* Espacios para preguntar en ARBA:
-  * Callao 897
-  * Saavedra 421
 
-<html><img src="http://maps.googleapis.com/maps/api/streetview?size=640x640&pano=NDjIjfNc82rnnbXHSF-sBw&heading=54.76686386693253&fov=45&pitch=-0.6350844287269738&sensor=false" /></html>
+### Espacios para preguntar en ARBA:
 
-  * Colón 1452
-  * Estancia abandonada en Payró al 300 (https://www.google.com.ar/maps/@-37.334557,-59.1474507,3a,38.6y,282.82h,90.59t/data=!3m6!1e1!3m4!1sPQDmvNe2evfwRFHKbLYy_w!2e0!7i13312!8i6656)
+#### Callao 897
+#### Saavedra 421
+
+<html><img src="http://maps.googleapis.com/maps/api/streetview?size=400x400&pano=NDjIjfNc82rnnbXHSF-sBw&heading=54.76686386693253&fov=45&pitch=-0.6350844287269738&sensor=false" /></html>
+
+#### Colón 1452
+
+#### Estancia abandonada en Payró al 300
+
+<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461263272884!6m8!1m7!1sn3i95w5lnlHbdM1dx3cx3w!2m2!1d-37.33463698594507!2d-59.14740373305868!3f291.38264654490933!4f1.4333392657697317!5f1.7837347679208873" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
