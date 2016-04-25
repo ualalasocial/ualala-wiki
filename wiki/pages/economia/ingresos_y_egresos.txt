@@ -54,4 +54,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 12-03-16 | gastos libreria   |0|500|
 | 29-03-16 | Venta de cajones de verdura |2100|0|
 | 07-04-16 | Pago alquiler abril  |0|1000|
+| 23-04-16 | Feria de ropa |495|0|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
