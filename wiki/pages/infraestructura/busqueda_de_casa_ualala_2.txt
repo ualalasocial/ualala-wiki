@@ -30,15 +30,6 @@ Entre Roca y 11 de septiembre
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461273910865!6m8!1m7!1sQkhzPwalSq05BHmP8rXWhA!2m2!1d-37.31314670828267!2d-59.13269583947562!3f119.8396183542644!4f-5.668552165931786!5f0.7936923136952563" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
 
-
-## Cnel. Brandsen 1149
-
-<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461274376609!6m8!1m7!1sD5DM5I0V7QubQ8LR5mHctw!2m2!1d-37.32350441841568!2d-59.15045223517394!3f89.73364819831174!4f-3.3826932376807974!5f1.1924812503605782" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
-
-## Av. Peron 1100 (aprox)
-
-<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461276978446!6m8!1m7!1slhElU19hzRSzsjT-9oLAWQ!2m2!1d-37.32290311635789!2d-59.14892881123931!3f242.76331633849838!4f-6.736002039170316!5f1.1924812503605782" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
-
 ## San Lorenzo 957 (aprox)
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461279560301!6m8!1m7!1s2hdWfgSwCDGzs27kcruo6w!2m2!1d-37.3242949360651!2d-59.14462215367539!3f83.48372266803585!4f1.0398139993049114!5f1.1924812503605782" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
@@ -58,3 +49,7 @@ Entre Roca y 11 de septiembre
 ## Av. Avellaneda 1236
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461281832291!6m8!1m7!1s_b7oTsIYE4mwKDjFkJxTRA!2m2!1d-37.33005443805612!2d-59.12287920761924!3f328.9711693432031!4f1.7121763671223817!5f2.8180106319445835" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
+
+## Libertad y Juncal
+
+<html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sar!4v1461592244656!6m8!1m7!1sa2WJ-0vdM165a5_S8vYNEQ!2m2!1d-37.3353477439511!2d-59.13296643754661!3f273.98334741501776!4f0.7858079686319996!5f1.5691299768222007" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
