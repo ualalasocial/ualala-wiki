@@ -1,12 +1,12 @@
 ## Costos y ganancias
 
-* Ganancia Total: 1890
+* Ganancia Total: 1905
 
 ### Detalles 
 
 * Cajon normal: 350 (270 para compra)
 * Cajon ualala: 300 (270 para compra)
-* Total para compra: 7360
+* Total para compra: 7345
 
 ## Lo que se compró
 
