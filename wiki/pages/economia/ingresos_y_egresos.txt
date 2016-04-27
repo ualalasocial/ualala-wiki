@@ -48,7 +48,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 08-03-16 | Alcancia de ualala   |0|200|
 | 29-03-16 | Venta de cajones de verdura |1200|0|
 | 04-03-16 | participacion epep   |0|0|
-| 12-03-16 | Renovacion x 1 año de "ualala.org"((Pagó Franco, reintegrar!))   |0|215|
+| 12-03-16 | Renovacion x 1 año de "ualala.org"|0|215|
 | 12-03-16 | pipeta   |0|150|
 | 12-03-16 | gastos construccion de carro   |0|500|
 | 12-03-16 | gastos libreria   |0|500|
