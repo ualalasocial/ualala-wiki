@@ -55,9 +55,9 @@ GONZA: Con la guita que juntamos hoy podriamos buscar algo mas grande.
 
 PABLO: Se podria conseguir un espacio a partir de nuclear emprendedores que necesitan un espacio pero no todos los dias. El espacio seria mas grande.
 
-Identificamos 3 vias para conseguirlo.
+Identificamos 3 planes para conseguirlo.
 
-#### Pedir un espacio ocioso
+#### PLAN A: Pedir un espacio ocioso
 
 * Juli y Yor van a ir ARBA el Martes 26:
 	* Identificar lugares, traer para el lunes que viene direcciones exacta
@@ -80,7 +80,7 @@ Identificamos 3 vias para conseguirlo.
 	* HER: circulo sobre introduccion a la autoconstruccion natural 
 
 
-#### Proyecto productivo para poder alquilar algo mas grande
+#### PLAN B: Proyecto productivo para poder alquilar algo mas grande
 
 * Alquiler de espacio
 * Listado de viviendas de la universidad
@@ -98,7 +98,7 @@ Tenemos que generar el dinero a partir de ahora.
 	* Pensar otras ideas
 
 
-#### Gestionar un espacio de co-working
+#### PLAN C: Gestionar un espacio de co-working
 
 Tratar de encontrar que emprendedores necesitan un espacio:
 	* PABLO va a pedir el listado al CICE (Centro de Innovacion de Creación de Empresas) de emprendiemiento para luego hacerle un filtrado
