@@ -6,6 +6,7 @@
   * Plan B: Posibles lugares para alquilar
   * Plan C: Noveades de estrategia de co-working 
 
+* Mail de Analia (profesorado/estudio de experiencias alternativas)
 * Cartelera de tareas pendientes por comisión
 * Conformar la "comisión de bienvenida"
 * Espacio alternativo para el encuentro de los Lunes
