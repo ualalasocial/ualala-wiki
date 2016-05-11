@@ -58,5 +58,7 @@ Esta pendiente subir la factura...
 * Mandarina: 16
 * Pomelo: 2
 * Lechugas: 2
-* Limón: 4
-* Zanahorias:
+* Limón: 3
+* Zanahorias:7
+* Morron: 2
+* Ajo: 1
