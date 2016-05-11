@@ -1,12 +1,13 @@
 ## Costos y ganancias
 
-* Ganancia Total: 1680
+* Ganancia Total: 1630
 
 ### Detalles 
 
 * Cajon normal: 350 (270 para compra)
 * Cajon ualala: 300 (270 para compra)
-* Total para compra: 6200
+* Nafta: 220
+* Total para compra: 6800
 
 ## Lo que se compró
 
@@ -14,10 +15,48 @@ Esta pendiente subir la factura...
 
 ## Quienes compraron
 
-26 cajones (7 UALALA, 4 nuevos)
+26 cajones (9 UALALA, 4 nuevos)
 
+ 1. Hernan Bonani
+ 1. Lorena Braccalente
+ 1. Facundo Cruz
+ 1. Carla Ekeroth
+ 1. Virginia Gardey
+ 1. Aldana Giannasi
+ 1. Julieta Gonzalez
+ 1. Gonzalo Goñi
+ 1. Elisa Gutierrez
+ 1. Mariana Irigoin
+ 1. Keoken Jaime
+ 1. Magdalena Lara
+ 1. Laura F. Lopes
+ 1. Cintia Paz
+ 1. Camila Perez
+ 1. Magdalena Roa
+ 1. Celeste  Rolon
+ 1. Vanesa Salas
+ 1. Marcelo Tello
+ 1. Yanina Venier
+ 1. Nelia Villar 
+ 1. Carlos Villarreal
+ 1. Daniel Watson
+ 1. Matias Zampati
+ 1. Mercedes Zeballos
+ 1. Fabricio Zijlscra
 
 
 ## Contenido de un cajón
 
-* 
+* Choclos: 3 / 2
+* Ancos: 2
+* Naranjas: 10
+* Papas: 10
+* Peras: 7
+* Manzanas: 5
+* Batatas: 4
+* Acelga: 1
+* Mandarina: 16
+* Pomelo: 2
+* Lechugas: 2
+* Limón: 4
+* Zanahorias:
