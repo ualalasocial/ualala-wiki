@@ -57,4 +57,6 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 23-04-16 | Feria de ropa |495|0|
 | 26-04-16 | Venta de cajones de verdura |1905|0|
 | 26-04-16 | Compra de 2 rollos de bolsas |0|75|
+| 10-05-16 | Venta de cajones de verdura |1630|0|
+| 10-05-16 | Pago alquiler mayo  |0|1500|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
