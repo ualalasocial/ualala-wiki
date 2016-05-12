@@ -63,7 +63,12 @@ Datos recolectados:
 
 El dueño es Cesar Grassi. Tenemos el listado de los herederos. Nunca se pagaron los impuestos, se deben 9600$. En sucesión, tiene varios herederos.
 
-* Grassi Herminda: (0249) 442-4974
+* Grassi Herminda: (0249) 442-4974 - NUMERO ASOCIADO A PERSSON MARIA J
+* Buscar si en la nomina de herederos aparece alguno de estos:
+  * LUBIANA,GRASSI	11 DE SEPTIEMBRE 464	2494437672
+  * LAZARO CESAR,GRASSI	GENERAL PAZ 270 ,MAIPU 25 DE MAYO LEANDRO N ALEM	2494447949
+  * ELSA N,GRASSI	SAN MARTIN 240 ,14 DE JULIO SAN LORENZO SARMIENTO	2494443450
+  * LILIA T C DE,GRASSI	LEANDRO N ALEM 1628	2494450342
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461263525378!6m8!1m7!1sHrdDs4_pkNlAI2CAJh44DA!2m2!1d-37.31393140294652!2d-59.13678732428004!3f261.2831355854131!4f4.660069604485912!5f1.218650328451183" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
 
