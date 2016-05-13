@@ -137,9 +137,9 @@ Entre Saenz Peña y Mosconi.
     * https://es-la.facebook.com/papirostandilserigrafia/
   * FRANCO: hable con la vecina. Me dijo que la casa es de un sra. Guerrero, que esta deshabitada desde hace muchos años. Ellos la tapiaron. La altura podria ser Ruben Dario 120 o 122.
 
-{{gallery>infraestructura:casas_rdarin*.jpg&80x80&crop&lightbox}}
+Fotos del lugar:
 
-{{:infraestructura:casas_rdarin-02.jpg?200|}}
+{{gallery>:infraestructura?casas_rdarin*.jpg&80x80&crop&lightbox}}
 
 #### Rivadavia 180
 
