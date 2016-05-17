@@ -4,17 +4,14 @@
 
 ## Temas
 
-* Hicimos una ronda de conversa incial para contar como estamos cada uno, que paso en las emana
+### Ronda de conversa informal
+
+* Hicimos una ronda de conversa incial para contar como estamos cada uno, que nos paso a cada uno en la semana a nivel personal, como nos sentiamos con UALALA.
 
 ### Espacio UALALA 2
 
-* Revisamos la situacion. Como conclusion vamos a activar la 2da tanda, JULI va a ir a ARBA a hacer nuevas averiguaciones.
-
-### Circulos introductorios de aprendizaje
-
-* Jornada en lo de Agus??
-  * Dulce de leche
-  * Invernaculo
+* Revisamos la situacion de cada espacio y lo avanzado en la semana.
+* Como conclusion vamos a activar la 2da tanda, JULI va a ir a ARBA a hacer nuevas averiguaciones.
 
 ### Cajon de verduras
 
@@ -23,7 +20,7 @@
 * Magui: tendriamos que tener una estrategia que se adapte a que el precio y la cantidad van a ir variando, sobre todo por la inflación. O cambiamos el precio del cajon o cambiamos la cantidad.
 * Hernan: sugiero que saquemos el peso de la comunicacion.
 * Cintia: los nuevos compradores quieren saber la cantidad.
-* Fran: podemos darles el listado de la compra anterior.
+* Fran: podemos darles el listado de la compra anterior, algo que ya estamos haciendo. Para hacer que sea mas sencillo de comunicar, la info del ultimo podria estar en web tipo: http://cajones.ualala.org/ultimo
 
 #### Ganancia
 
@@ -31,9 +28,9 @@
 * Cin: lo de la financiacion lo veo dificil si es gente con la que no tenemos confianza.
 * Magui: solo lo financiamos a gente de confianza, que tiene un garante.
 
-* Manu: ademas podriamos agregar el plus de porotos. 
+* Manu: ademas podriamos agregar un plus, como lo de los porotos, lentajes, etc.
 
-* Puntos: 
+* Acordamos sumar los siguientes puntos de cobro: 
   * Miercoles de 18 a 20 en Peron 1790 - MANU
   * Lunes de 9 a 13 en Saavedra 494 - MAGUI
   * Lunes de 9 a 13 en Navarro 11 - ELI
@@ -57,7 +54,20 @@
 
 * Dario va a armar un folletito para contar que se puede hacer con la verdura.
 
-### Esta semana
+### Difusión y visitas
 
-* Reunion de pedagogia el jueves a las 18.30 en ualala.
+* Compartimos la experiencia de las visitas de estudiantes del profesorado. Ellas enviarian un "informe" que produzcan luego de las visitas
+* En relacion a las proximas visitas de observadores e interesados, acordamos usar la misma modalidad que con las estudiantes: acordar que vengan a uno de los encuentros de miercoles o viernes, media hora antes para charlita y hasta una hora durante el encuentro.
+
+### A realizar esta semana
+
+* Reunion de pedagogia el jueves a las 18.30 en ualala, todos invitados
 * Magui se compromete a hacer la impresion del material de los conversatorios.
+* Ed va a llamar a algunas de las casas pendientes
+* Juli va a ir ARBA a preguntar por las casas pendientes mas relevantes
+* Fran arma diseño de banner
+* Hernan averigua precios de folleteria color y espacios radiales
+
+### Proxima asamblea
+
+* La proxima asamblea será pedagógica, el jueves la comision prepara los temas y dinamica
