@@ -62,3 +62,4 @@ Esta pendiente subir la factura...
 * Zanahorias:7
 * Morron: 2
 * Ajo: 1
+* Remolacha: 4
