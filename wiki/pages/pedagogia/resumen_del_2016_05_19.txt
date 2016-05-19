@@ -1,4 +1,6 @@
 ## Temas
+
+* definir el formato y metodologia del ciclo de-formacion
 * Ualala como espacio de aprendizaje de adultxs
 	* JULI: circulo de aprendizaje sobre UALALA
 	* YOR: circulo sobre peluqueria
@@ -7,7 +9,6 @@
 	* YOR: circulo sobre introduccion de fotografia
 	* ED: circulo sobre acercamiento de escritores
 	* HER: circulo sobre introduccion a la autoconstruccion natural 
-* definir el formato y metodologia del ciclo de-formacion
 * diagnóstico,crítica y autocritica de facilitadorxs y tbn del proyecto pedagógico.
 * seguir hablando del registro de los encuentros.
 
