@@ -31,10 +31,10 @@ Temas:
 El calendario podria ser algo asi
 
 * JULIO: Mes de XXXXX
-  * 9/7 PELI: proyeccion cine-debate para presentar el tema
-  * 11/7 ASAMBLEA PED: actividad para abordar el tema (podria ser un juego, hablar desde las vivencias personales. Se entregan los textos del teorico.
-  * 23/7 TEORICO: con lecturas previas, podria ser mas tipo clase
-  * 25/7 ASAMBLEA PED: puesta en comun, definicion de acciones y acuerdos
+  * 9/7 PELI: proyeccion cine-debate para presentar el tema. DUPLA RESPONSABLE: XXXX
+  * 11/7 ASAMBLEA PED: actividad para abordar el tema (podria ser un juego, hablar desde las vivencias personales. Se entregan los textos del teorico. DUPLA RESPONSABLE: XXXX
+  * 23/7 TEORICO: con lecturas previas, podria ser mas tipo clase. DUPLA RESPONSABLE: XXXX
+  * 25/7 ASAMBLEA PED: puesta en comun, definicion de acciones y acuerdos. DUPLA RESPONSABLE: XXXX
 
 * AGOSTO: Mes de XXXXX
   * 6/8
