@@ -22,5 +22,3 @@ Momentos:
 * [[pedagogia:proceso:antu#viernes_29_04_16|Antu]]
 * [[pedagogia:proceso:dante#viernes_29_04_16|Dante]]
 * [[pedagogia:proceso:rena#vienes_29_04_16|Rena]]
-* [[pedagogia:proceso:magna#viernes_29_04_16|Magna]]
-
