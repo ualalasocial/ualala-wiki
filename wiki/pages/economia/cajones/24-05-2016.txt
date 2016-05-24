@@ -21,20 +21,23 @@ Esta pendiente subir la factura...
 
 ## Contenido de un cajón
 
-* Choclos: 2
-* Ancos: 2
-* Naranjas: 10
-* Papas: 10
-* Peras: 6
-* Manzanas: 5
-* Batatas: 4
-* Acelga: 1
-* Mandarina: 15
-* Pomelo: 2
-* Lechugas: 3
-* Limón: 5
-* Morron: 2
-* Ajo: 1
-* Remolacha: 4
-* Brocoli/Coliflor: 1
-* Berenjena: 2
+1. Choclos: 2
+1. Ancos: 1
+1. Papas: 10
+1. Batatas: 4
+1. Acelga: 1
+1. Lechuga criolla: 3
+1. Morron: 2
+1. Ajo: 1
+1. Remolacha: 4
+1. Brocoli/Coliflor: 1
+1. Berenjena: 2
+1. Repollo: 1
+1. Cebollas: 10
+1. Bananas: 14
+1. Pomelos: 4
+1. Limón: 5
+1. Mandarina: 15
+1. Peras: 6
+1. Manzanas: 5
+1. Naranjas: 10
