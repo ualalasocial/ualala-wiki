@@ -25,7 +25,7 @@ Esta pendiente subir la factura...
 * Ancos: 2
 * Naranjas: 10
 * Papas: 10
-* Peras: 7
+* Peras: 6
 * Manzanas: 5
 * Batatas: 4
 * Acelga: 1
