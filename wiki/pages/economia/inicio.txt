@@ -17,6 +17,7 @@ Es el grupo abocado a conseguir el dinero para cubrir las necesidades del proyec
 
 * [[economia:ingresos_y_egresos|Registro de ingresos y egresos]]
 * [[economia:cajones|Venta de cajones de verduras]]
+* [[economia:financiamiento|Becas, fondos y concursos]]
 
 ## Listado de tareas
 
