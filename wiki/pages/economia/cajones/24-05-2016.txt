@@ -1,6 +1,6 @@
 ## Costos y ganancias
 
-* Ganancia Total: 
+* Ganancia Total: 1760
 
 ### Detalles 
 
@@ -15,9 +15,35 @@ Esta pendiente subir la factura...
 
 ## Quienes compraron
 
-27 cajones (9 UALALA, 7 nuevos)
+27 cajones (8 UALALA, 7 nuevos)
 
- 
+1. Evelin Vainikoff
+1. Gabriela F. Di Biasse
+1. Marcelo Tello
+1. Alicia Laura Gomez
+1. Guillermina  Sosa
+1. Magdalena Lara
+1. Paula Gil
+1. Facundo Cruz
+1. Helena Ardanch
+1. Hernan Bonani
+1. Lali Granda
+1. Mari Ester César
+1. Cintia Paz
+1. Eugenia  Calvo
+1. Julieta Gonzalez
+1. Virginia Gardey
+1. Gonzalo Goñi
+1. Nelia Villar 
+1. Daniel Gomez
+1. Jose Ponce
+1. Miguel Garcia
+1. Sara Raquel Miño
+1. Alejandra Dellacasa
+1. Elisa Gutierrez
+1. Magdalena Roa
+1. Mauricio Palencia
+1. Rodolfo Reinprecht
 
 ## Contenido de un cajón
 
