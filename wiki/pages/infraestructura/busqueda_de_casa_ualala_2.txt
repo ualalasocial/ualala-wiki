@@ -55,7 +55,7 @@ Tenemos el dato de un tal Garcia José que figuraba en una boleta del Cementerio
 * El telefono de Lisandro de la torre 448 es 445-0441 y está a nombre de SARA ROTONDA.
 
 * Yor hablo con el dueño y el se entusiasmó.
-* :!: **PENDIENTE: estamos a la espera de que el dueño nos dé cita para ir a ver la casa. Al parecer la llave no está en Tandil.**
+* **Fuimos a ver la casa, [[casa-garibaldi-1350|este es el registro]]**
 
 <html><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2sar!4v1461272741838!6m8!1m7!1spvzIyUfLKSGfPSBBGg2_4w!2m2!1d-37.31732159661477!2d-59.1285355828031!3f340.1689569748043!4f-5.623300541586687!5f1.0598445338435338" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></html>
 
