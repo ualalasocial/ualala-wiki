@@ -1,6 +1,5 @@
 ## Registro de compras
 
-* Planilla con todos los compradores y cada ronda: https://docs.google.com/spreadsheets/d/1fHVRTaGMFTVr_BsQCU2GLbJcSxfMcNXC6FO4CNSIhzs/edit?usp=sharing
 
 ## Detalles de cada ronda
 
