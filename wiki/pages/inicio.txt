@@ -36,6 +36,8 @@
 
 ## Resumen de asambleas 
 
+<div id="xxx">
+
 * [[Asambleas:Resumen del 2016/06/13]] | PROXIMO
 ----
 * [[Asambleas:Resumen del 2016/06/06]] | Definicion sobre el posible lugar de la nueva casa Ualala 
@@ -91,6 +93,8 @@
 * [[Asambleas:Resumen del 2015/04/13]] | Se plantea sumar personas. Planes de autoformación. Economía grupal y proyecto productivo.
 * [[Asambleas:Resumen del 2015/04/06]] | Se definen reuniones. Bastante poco.
 * [[Asambleas:Resumen del 2015/03/30]] | Se debate sobre el espacio de Moni.
+
+</div>
 
 ## Resumen de plenarios
 
