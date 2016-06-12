@@ -146,3 +146,8 @@
 
 * E-mail público: hola@ualala.org
 * Lista de correo interna: ualala-general@lists.ourproject.org
+
+### Herramientas web
+
+* [[ayuda:manual_wiki|Guia de uso del wiki]]
+* [[ayuda:fotos_gdrive|Guia para subir fotos a Google Drive]]
