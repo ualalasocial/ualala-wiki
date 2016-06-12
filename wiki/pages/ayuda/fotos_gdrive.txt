@@ -1,0 +1,18 @@
+Aqui explicamos brevemente como subir fotos del proyecto a nuestra carpeta de Google Drive. Las mismas se pueden ver publicamente usando este enlace: http://fotos.ualala.org
+
+Para subir fotos, seguimos estos pasos:
+
+1. Ingresas en http://drive.google.com
+2. Te logueas con el usuario "experienciaeducativaintegral@gmail.com" y usas la contraseña supersecreta (pedisela a alguno de los cumpas de la [[Comunicación:Inicio|Comisión de Comunicación]]
+3. Ingresas en la carpeta "Fotos", la cual tiene algunas subcarpetas.
+  1. Encuentros: fotos de encuentros de los peques
+  1. Jornadas: actividades ualalenses por fuera de los encuentros
+  1. Eventos públicos: actividades abiertas y publicas que organizamos o participamos
+4. Luego de elegir el lugar correcto donde poner las fotos que vamos a subir, tenemos que crear una nueva subcarpeta: 
+  1. Hacemos **Click derecho > New folder**
+  1. Nombramos la carpeta con la estructura "FECHA - DESCRIPCION", la fecha con el formato AAAA-MM-DD. Esto es muy importante, ya que permite ordenar cronologicamente el material dentro y fuera de Google Drive.
+  1. Ingresamos a la nueva carpeta y subimos las fotos haciendo **Click derecho > Upload files**
+  1. En la esquina derecha inferior tiene que aparecer una ventanita indicando el progreso de la subida de cada uno de los archivos. Podemos cerrar el navegador una vez que haya terminado la subida.
+5. Para comprobar la correcta subida, ingresamos en http://fotos.ualala.org y buscamos las fotos que recien subimos.
+  
+  
