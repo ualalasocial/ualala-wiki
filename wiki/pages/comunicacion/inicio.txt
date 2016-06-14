@@ -33,6 +33,10 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 * [[Agenda de contactos de prensa]]
 * [[Contenidos para difundir en redes sociales]]
 
+## Articulos propios
+
+* [[comunicacion:articulo_libro_unmdp|Articulo para libro de la UNMdP]]
+
 ### Sitios web
 
 * http://www.ualala.org
