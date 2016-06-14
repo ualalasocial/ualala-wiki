@@ -157,3 +157,8 @@
 
 * [[ayuda:manual_wiki|Guia de uso del wiki]]
 * [[ayuda:fotos_gdrive|Guia para subir fotos a Google Drive]]
+
+### Herramientas para celular
+
+* [https://play.google.com/store/apps/details?id=com.penzasoft.textreader&hl=en|TextReader]: App para leer offline resumenes de asambleas y otros materiales del wiki 
+* [https://play.google.com/store/apps/details?id=com.artifex.mupdfdemo&hl=en|MuPDF]: lector de PDF liviano y rápido
