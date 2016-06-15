@@ -1,0 +1,13 @@
+Recopilación de pequeños truquillos técnicos...
+
+### Convertir un video para enviar por WhatsApp
+
+```ffmpeg  -y -i movie.mp4 -r 20 -s 352x288 -vb 400k -acodec aac -strict experimental -ac 1 -ar 8000 -ab 24k movie.3gp```
+
+Luego renombrar el ```.3gp``` a ```.mp4``` para poder subirlo usando WhatsApp Web.
+
+### Convertir PDFs para lectura en celulares
+
+```k2pdfopt -odpi 250 -bpc 1 -d- archivo.pdf```
+
+Incrementar el valor de ```odpi``` aumenta el tamaño de la tipografía (nivel de zoom).
