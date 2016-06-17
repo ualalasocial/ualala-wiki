@@ -62,4 +62,8 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 10-05-16 | Pago alquiler mayo  |0|1500|
 | 23-05-16 | Pago cena de encuentro  |0|150|
 | 24-05-16 | Venta de cajones de verdura |1760|0|
+| 07-06-16 | Venta de cajones de verdura |3065|0|
+| 13-06-16 | Pago alquiler junio  |0|1500|
+| 13-06-16 | Pago de cuadernillos  |0|300|
+| 13-06-16 | helado de regalo a cin |0|250|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
