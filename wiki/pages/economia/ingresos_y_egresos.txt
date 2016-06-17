@@ -55,7 +55,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 29-03-16 | Venta de cajones de verdura |2100|0|
 | 07-04-16 | Pago alquiler abril  |0|1000|
 | 23-04-16 | Feria de ropa |495|0|
-| 23-05-16 | Cable de red 50m((Pagó Franco, reembolsar!)) |0|370|
+| 23-05-16 | Cable de red 50m((Pagó Franco, reembolsar370!)) |0|0|
 | 26-04-16 | Venta de cajones de verdura |1905|0|
 | 26-04-16 | Compra de 2 rollos de bolsas |0|75|
 | 10-05-16 | Venta de cajones de verdura |1630|0|
