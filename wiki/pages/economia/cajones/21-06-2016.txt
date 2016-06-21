@@ -6,13 +6,12 @@
 1. Marcelo tiene la plata de 1 cajón y el suyo : 650
 1. Fran debe el suyo : 300 (reintregar compra cable y acomodar en planilla! Se le deberian entonces 70p)
 1. Gonza debe el suyo : 300
-1. Hay q cobrar 2 cajones en el reparto : 700 
+1. Hay q cobrar 2 cajones en el reparto : 700
 
 
 
 
-
-### Detalles 
+## Detalles 
 
 * Cajon normal: 350 (270 para compra)
 * Cajon ualala: 300 (270 para compra)
