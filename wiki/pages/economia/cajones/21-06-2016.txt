@@ -9,12 +9,7 @@
 1. Hay q cobrar 2 cajones en el reparto : 700
 
 
-
-
-
-
-
-## Detalles 
+### Detalles 
 
 * Cajon normal: 350 (270 para compra)
 * Cajon ualala: 300 (270 para compra)
