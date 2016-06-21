@@ -5,7 +5,7 @@
 1. Eli tiene la plata de 2 cajones y debe el suyo : 1000
 1. Marcelo tiene la plata de 1 cajón y el suyo : 650
 1. Fran debe el suyo : 300 (reintregar compra cable y acomodar en planilla! Se le deberian entonces 70p)
-1. Gonza debe el suyo : 300
+1. Gonza debe el suyo : 300 (hay q reintregar gastos de materiales para jornada -lijas, cal...-
 1. Hay q cobrar 2 cajones en el reparto : 700
 1. Se uso plata de un cajon para pintura y demas (preg a Ale) : 350
 
