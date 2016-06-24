@@ -12,6 +12,7 @@ Mi nombre es Patricia Weissmann, trabajo en la UNMDP como docente del Depto de C
 
 > Propongo que vayamos escribiendo secciones separadas y mas adelante vemos como ordenarlas y darles cohesión.
 
+
 ### Contextualizando un poco
 
 Una breve puesta en contexto para un lector que no solo no conoce Tandil, sino tampoco Argentina. Estaria bien dar cuenta de las caracteristicas geográfias, el perfil conversador de los lugareños, el contexto urbano, la inexistencia de otras iniciaticas de Ed Alt en el 2013. Esto como forma de perfilar a Ualala por fuera de las experiencias de ecoaldeas.
@@ -52,7 +53,7 @@ Sobre la evolucion, algo asi?:
 * luego se fijaron lugares (casas) x dia, se acordo un esquema claro de rotacion de facilitadores
 * luego nace la idea de tener un espacio propio (explicar por que)
 
- 
+
 ### Identidad, visibilidad e impacto social
 
 Se nombra el proyecto. Se asume un perfil político-pedagogico claro, los 6 pilares.
