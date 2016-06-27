@@ -16,7 +16,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 12-10-15 | Cinta ancha y clavos |0|64|
 | 14-10-15 | Venta de cajones de verduras |1275|0|
 | 16-10-15 | Alquiler Octubre |0|1000|
-| 16-10-15 | Burlete((Pagó Gonza, reembolsar!)) |0|97|
+| 16-10-15 | Burlete |0|97|
 | 28-10-15 | Lavandina |0|18|
 | 28-10-15 | Madera para estante,tornillos,tarugos y repuesto para mochila de inodoro |0|505|
 | 29-10-15 | Venta de cajones de verduras |1645|0|
@@ -66,4 +66,11 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 13-06-16 | Pago alquiler junio  |0|1500|
 | 13-06-16 | Pago de cuadernillos  |0|300|
 | 13-06-16 | helado de regalo a cin |0|250|
+| 22-06-16 | Pago alquiler casa garibaldi junio  |0|4000|
+| 20-06-16 | pintura interior pincel lija |0|383|
+| 25-06-16 | caja de guantes  |0|107|
+| 25-06-16 | Cloro+trapodepiso  |0|100|
+| 25-06-16 | membrana  |0|630|
+| 25-06-16 | alquiler de contenedor  |0|670|
+| 27-06-16 | Dos candados  |0|230|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
