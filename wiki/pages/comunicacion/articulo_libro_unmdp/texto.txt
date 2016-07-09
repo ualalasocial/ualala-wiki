@@ -2,7 +2,7 @@
 
 > "Confiemos en los niños. Nada podría ser más fácil ni más dificil. Difícil, porque para confiar en los niños primero tenemos que confiar en nosotros mismos, y la mayoría de nosotros fuimos enseñados como niños en los que no se podía confiar. Y por tanto vamos a tratar a los niños de la misma manera en que nosotros fuimos tratados, llamándole a esto "realidad", o diciendo, con un punto de amargura, "si yo pude soportarlo, ellos también podrán". 
 
-**Holt, John. How Children Learn**
+**John Holt. How Children Learn**
 
 
 ## Introducción
@@ -10,6 +10,9 @@
 La experiencia colectiva que aquí ponemos de manifiesto busca aportar a otras construcciones similares a la nuestra, aquellas que desde una mirada disonante con las formas hegemónicas de educación se animan a hacer posibles formas otras de aprendizaje. El nuestro es un relato vivo que da cuenta de un proceso en constante construcción y que al momento de escribir estas líneas atraviesa un pujante proceso de transformaciones producto de un recorrido que lleva ya 3 años.
 
 Nuestra voz es plural y grupal, aportaron a este artículo algunxs((A lo largo del texto, y como en todas nuestras comunicaciones, optamos por aplicar un lenguaje no sexista. Cuestionamos el patriarcado y entendemos el lenguaje como otro espacio de disputa política)) de los compañerxs que gestaron la idea, otrxs que se sumaron al barco cuando ya estaba en marcha y varixs que comenzaron a compartir este viaje hace relativamente poco. Todas las voces cuentan.
+
+El texto que compartimos da cuenta de nuestro proceso de forma sincera, detallada y exhaustiva. Algunxs lectorxs podrán encontrarlo tedioso por momentos. Ha sido elaborado intentando ser una herramienta útil para quienes que quieran iniciar y llevar adelante un proyecto de educación alternativa. Nuestras idas y vueltas, aciertos y errores, podrán quizás aportar algo a quienes se animen a crear su camino hacia otras educaciones.
+
 
 ## Los orígenes
 
@@ -97,78 +100,79 @@ Definimos 6 principios que sostenemos hasta hoy, que nos permiten pensar a UALAL
 
 A las transformaciones y definiciones antes descritas, se le sumó la conclusión grupal de que el modelo de alternancia de facilitadorxs en los encuentros se estaba agotando, a partir de las dificultades para hacer un seguimiento cuidadoso de los procesos de cada uno de lxs peques y la incapacidad para llevar de forma más o menos consistente ciertos acuerdos pedagógicos ya asumidos por el colectivo. Fue entonces que decidimos organizarnos en  cuatro comisiones de trabajo temáticas, en las que nos fuimos dividiendo voluntariamente (cada adultx se sumó en principio a dos comisiones) y así distribuir de forma equitativa las diferentes tareas que teníamos por delante.
 
-### Comisión de pedagogía
+### El trabajo en comisiones
+
+#### Comisión de pedagogía
 
 Fue conformada por lxs facilitadorxs, cuyo número total se limitó a 6 adultxs. Fijamos las parejas pedagógicas para dos de los tres encuentros semanales y rotamos entre lxs miembrxs del grupo para los días de asamblea. A partir de esa modificación, pronto comenzamos a notar cambios positivos en las dinámicas de lxs peques, con una mejor comunicación y mayor vínculo con lxs adultxs facilitadores. El funcionamiento de las parejas pedagógicas sirvió para poder mejorar todxs en ese rol, pautar acuerdos sobre las intervenciones y respetar más la libertad de lxs chicxs. Además, comenzamos a realizar registros diarios de los encuentros en general y de cada peque en particular.  Esto nos permitió socializar con todo el grupo lo ocurrido en cada encuentro de forma más detallada y también lo usamos como insumo para las reuniones de comisión.
 
 La idea original que nos propusimos fue que los roles fueran rotativos, pero con la idea de mantener durante un tiempo prudencial el modelo de las parejas pedagógicas. Así fue por unos meses pero luego surgieron algunas modificaciones, a partir de la baja de algunxs miembrxs y del deseo de otrxs por tomar diferentes compromisos dentro de la organización colectiva.  
 
-### Comisión de economía
+#### Comisión de economía
 
 La pensamos como el grupo abocado a conseguir los recursos para cubrir las nuevas necesidades del proyecto: el alquiler y servicios de la casa, materiales, comida y otros. Hasta el surgimiento de esta comisión, habíamos financiado el proyecto con alguna actividad esporádica como varietes y ferias. A partir de la existencia de gastos fijos, nos vimos en la necesidad de generar un ingreso mensual. Fue entonces que elaboramos la propuesta de revender frutas y verduras en grandes cantidades. Dado que desde hacía un tiempo varixs de lxs miembrxs nos organizábamos para comprar estos productos de forma conjunta a un mayorista, decidimos darle "una vuelta de rosca" y lo convertimos en insumo para el proyecto. Desde ese momento hasta el presente, el mismo se autofinancia con la venta quincenal de cajones de frutas y verduras que repartimos a mas de treinta hogares.
 
-### Comisión  de comunicación
+#### Comisión  de comunicación
 
-Necesitábamos comunicar lo que estábamos haciendo. Teníamos que trabajar la comunicación interna, pues el dividirnos por comisiones implicaba  que todxs supiéramos lo que cada comisión estaba haciendo. La comunicación externa también se volvió esencial, así que  nos propusimos sostener una presencia en Internet y en las principales redes sociales ((Hoy UALALA tiene su propio sitio web en www.ualala.org, desarrollado integramente por nosotrxs usando Jekyll, una herramienta de Software Libre)). Además, nuevas familias e interesadxs nos contactaban para sumarse o conocer más sobre el proyecto y había que dar respuestas. Esta comisión fue la responsable de llevar adelante estas tareas. 
+Necesitábamos comunicar lo que estábamos haciendo. Teníamos que trabajar la comunicación interna, pues el dividirnos por comisiones implicaba  que todxs supiéramos lo que cada comisión estaba llevando adelante. La comunicación externa también se volvió esencial, así que  nos propusimos sostener una presencia en Internet y en las principales redes sociales ((Hoy UALALA tiene su propio sitio web en www.ualala.org, desarrollado integramente por nosotrxs usando Jekyll, una herramienta de Software Libre)). Además, nuevas familias e interesadxs nos contactaban para sumarse o conocer más sobre el proyecto y había que dar respuestas. Esta comisión fue la responsable de llevar adelante estas tareas. 
 
-### Comisión de infraestructura
+#### Comisión de infraestructura
 
-A partir de contar con la casa tuvimos que afrontar refacciones y mejoras en la infraestructura. Por otro lado, se nos hacia imperante enriquecer el espacio educativo con materiales y recursos de uso  para lxs peques. Desde esta comisión nos ocupamos de poner manos a la obra para llevar a cabo esas tareas. 
+A partir de contar con la casa tuvimos que afrontar refacciones y mejoras en la infraestructura. Por otro lado, se nos hacia imperioso enriquecer el espacio educativo con materiales y recursos de uso  para lxs peques. Desde esta comisión nos ocupamos de poner manos a la obra para llevar a cabo esas tareas. 
 
 
-### Algunos aprendizajes del trabajo en comisiones
+### Algunos aprendizajes y disolución de las comisiones
 
-La división por comisiones nos funcionó bien durante algunos meses, sobre todo cuando la casa debia ponerse en condiciones para los encuentros. Una vez que alcanzamos cierta dinámica de funcionamiento y comenzaron a sucederse los encuentros allí,nos llegó el final del año y el receso de verano nos hizo disminuir la dedicación al proyecto. En el comienzo del año 2016 nos dimos una fuerte autocrítica al modelo de organización formulado, ya que sentimos que limitaba  nuestro propio accionar adultx, la libertad de hacer y "burocratizaba" nuestra dinámica de relaciones y la práctica misma. 
+La división por comisiones nos funcionó bien durante algunos meses, sobre todo cuando la casa debía ponerse en condiciones para los encuentros. Una vez que alcanzamos cierta dinámica de funcionamiento y comenzaron a sucederse los encuentros allí, llegó el final del año y el receso de verano nos hizo disminuir la dedicación al proyecto. En el comienzo del 2016 hicimos una fuerte autocrítica al modelo de organización formulado, ya que sentimos que limitaba  nuestro propio accionar adultx, la libertad de hacer y "burocratizaba" nuestra dinámica de relaciones y la práctica misma. 
 
-Estos malestares nos llevaron a desdibujar un poco la estructura rígida en que nos habiamos montado. Las comisiones devinieron en una suerte de tareas pendientes organizadas por temas. La comisión de pedagogía se sustuvo manteniendo el rol de lxs facilitadorxs fijxs. En términos generales hemos comenzado a transitar una forma de organización más flexible y dinámica  accionando como una suerte de "adhocracia", término que recientemente comenzó a dar vueltas en el grupo, buscando poner en palabras el modo de organización que fuimos asumiendo de forma orgánica en los últimos tiempos. La adhocracia es la ausencia de jerarquía, y es por tanto lo opuesto a burocracia, donde todxs lxs miembros de la organización tienen autoridad para tomar decisiones y llevar a cabo acciones que afectan al futuro de la misma.  No se espera que lxs miembrxs aporten lo mismo ni en las mismas cantidades, sino que se promueve la colaboración libre, gozosa, espontánea, no meritocrática ni cohercitiva. 
+Estos malestares nos llevaron a desdibujar un poco la estructura rígida en que nos habíamos montado. Las comisiones devinieron en una suerte de tareas pendientes organizadas por temas. La comisión de pedagogía se sostuvo manteniendo el rol de lxs facilitadorxs fijxs. En términos generales hemos comenzado a transitar una forma de organización más flexible y dinámica  accionando como una suerte de "adhocracia", término que recientemente comenzó a dar vueltas en el grupo, buscando poner en palabras el modo de organización que fuimos asumiendo de forma orgánica en los últimos tiempos. La adhocracia es la ausencia de jerarquía, y es por tanto lo opuesto a burocracia, donde todxs lxs miembros de la organización tienen autoridad para tomar decisiones y llevar a cabo acciones que afectan al futuro de la misma.  No se espera que lxs miembrxs aporten lo mismo ni en las mismas cantidades, sino que se promueve la colaboración libre, gozosa, espontánea, no meritocrática ni cohercitiva. 
 
 Seguimos en el proceso de aprender haciendo, desde la reflexión-acción, teniendo claro que no encontraremos nunca un modelo único ni definitivo, nos movemos y cambiamos, sabiendo que es un proceso orgánico y complejo el que grupalmente elegimos llevar adelante.
 
 ### Nuestra dinámica de funcionamiento actual
 
-Actualmente mantenemos el esquema de 3 encuentros semanales. En cada uno de ellos, una pareja de faciltadorxs se encarga de generar las condiciones, materiales y sutiles, para que los mismos se desarrollen con fluídez, bajo la máxima de intervenir lo menos posible en las dinámicas de lxs peques. Los encuentros son los días lunes, miércoles y viernes. El primero coincide con la asamblea de lxs adultxs, que se da a la par, pero no en el mismo espacio donde están lxs peques (la casa grande nos permite agruparnos en distintos salones). Este primer encuentro generalmente se cierra con una cena compartida entre adultxs y niñxs. A veces se cocina en el espacio, con lxs niñxs, otra se lleva "a la canasta" algo para compartir entre todxs, y otras las familias a voluntad nos ofrecemos para cocinar algo para el colectivo.
+Actualmente mantenemos el esquema de 3 encuentros semanales. En cada uno de ellos, una pareja de faciltadorxs se encarga de generar las condiciones, materiales y sutiles, para que los mismos se desarrollen con fluídez, bajo la máxima de intervenir lo menos posible en las dinámicas de lxs peques. Los encuentros son los días Lunes, Miércoles y Viernes. El primero coincide con la asamblea de lxs adultxs, que se da a la par, pero no en el mismo espacio donde están lxs peques. Este primer encuentro generalmente se cierra con una cena compartida entre adultxs y niñxs. A veces se cocina en el espacio, con lxs niñxs, otra se lleva "a la canasta" algo para compartir entre todxs, y otras las familias a voluntad nos ofrecemos para cocinar algo para el colectivo.
 
-Los miércoles se comparte un almuerzo, siendo esto parte importante del encuentro, pues es un momento en el que lxs peques frenan sus actividades (que son variadas y que no siempre incluyen a la totalidad del grupo) y se sientan alrededor de la mesa, donde se genera un espacio tranquilo en el cual poder intercambiar ideas, historias,opiniones o conversar sobre algún que otro conflicto que se pueda haber desarrollado previamente. El almuerzo no tiene un horario fijo, sino que se sirve a demanda. Cada niñx lleva comida para compartir, permitiendo esto la variedad de platos y opciones. El último encuentro de la semana es por la tarde y se comparte entonces una merienda, muchas veces cocinada por lxs mismxs peques.
+Los miércoles se comparte un almuerzo, siendo esto parte importante del encuentro, pues es un momento en el que lxs peques frenan sus actividades (que son variadas y que no siempre incluyen a la totalidad del grupo) y se sientan alrededor de la mesa, donde se genera un espacio tranquilo en el cual poder intercambiar ideas, historias, opiniones o conversar sobre algún que otro conflicto que se pueda haber desarrollado previamente. El almuerzo no tiene un horario fijo, sino que se sirve a demanda. Cada niñx lleva comida para compartir, permitiendo esto la variedad de platos y opciones. Actualmente sólo compartimos comida vegetariana. El último encuentro de la semana es por la tarde y se comparte entonces una merienda, muchas veces cocinada por lxs mismxs peques.
  
-Luego de cada encuentro, la pareja de facilitadores se ocupa de hacer un registro del mismo. En un primer momento lo realizábamos in situ, recién finalizado el encuentro, desde una perspectiva más o menos etnográfica y con cierta pretensión de objetividad, haciendo un seguimiento personalizado de cada unx de los niñxs participantes. Sin embargo, con el discurrir de los encuentros fuimos revisando esta práctica, la que continuamos considerando de suma importancia, pero flexibilizando esa supuesta objetividad y permitiéndonos ser más creativos. 
+Luego de cada encuentro, la pareja de facilitadorxs se ocupa de hacer un registro del mismo. En un primer momento lo realizábamos in situ, recién finalizado el encuentro, desde una perspectiva más o menos etnográfica y con cierta pretensión de objetividad, haciendo un seguimiento personalizado de cada unx de los niñxs participantes. Sin embargo, con el discurrir de los encuentros fuimos revisando esta práctica, la que continuamos considerando de suma importancia, pero flexibilizando esa supuesta objetividad y permitiéndonos mas libertad creativa en la forma de registrar lo acontecido. 
 
-Por fuera de los encuentros de lxs niñxs, los martes cada 15 días quienes podemos nos encontramos para realizar las distintas tareas que implican el reparto de los cajones de frutas y verduras. Es un encuentro de trabajo, ya que a partir de él obtenemos el sustento económico de la experiencia, pero es también un encuentro humano, en el que intentamos difuminar los límites entre trabajo y juego, y pasarla bien, trabajando. 
+Por fuera de los encuentros de lxs niñxs, los martes cada 15 días quienes podemos nos encontramos para realizar las distintas tareas que implican el reparto de los cajones de frutas y verduras. Es un encuentro de trabajo, ya que a partir de él obtenemos el sustento económico de la experiencia, pero es también un encuentro humano, en el que intentamos desdibujar los límites entre trabajo y juego, y pasarla bien. 
 
 Cada 15 días también, los jueves (en la semana en que no hay reparto de cajones), quienes conformamos la comisión de pedagogía, tenemos un encuentro específico en el cual debatimos en torno a nuestras prácticas, realizamos autocríticas, buscamos fortalecernos en la obtención de nuevas y necesarias herramientas teóricas, y ponemos en común el proceso de cada unx de los niñxs.
 
-A su vez, sin una periodicidad regular, realizamos encuentros y jornadas de trabajo y goce, ya sea para realizar materiales, o para poner en condiciones los que poseemos. Son momentos compartidos entre todxs, en los que el grupo se va volviendo más tribu, en los que nos divertimos, nos vamos animando a hablar ya no de "mis" hijxs sino de los nuestrxs, en los que tentamos otras formas de ser en el hacer. Bajo ese mismo prisma, entre la necesidad y el deseo, hemos realizado también Varietes artísticas, y ferias americanas, no como objetivos en sí mismos (más allá de la necesidad de conseguir el sustento en una experiencia autogestiva) sino como excusas para el encuentro.
+A su vez, sin una periodicidad establecida, realizamos encuentros y jornadas de trabajo y goce, ya sea para realizar materiales, o para poner en condiciones los que poseemos. Son momentos compartidos entre todxs, en los que el grupo se va volviendo más tribu, en los que nos divertimos, nos vamos animando a hablar ya no de "mis" hijxs sino de los nuestrxs, en los que intentamos otras formas de ser en el hacer. Bajo ese mismo prisma, entre la necesidad y el deseo, hemos realizado también varietés artísticas y ferias, no como objetivos en sí mismos (más allá de la necesidad de conseguir el sustento en una experiencia autogestiva) sino como excusas para el encuentro.
 
 
 ## Nuevos y futuros desafíos
 
-El espacio, la organización y la visibilidad cobrada, hicieron al crecimiento del grupo. A fines del 2015 realizamos un nuevo plenario donde nos propusimos nuevas metas. No alcanzaba un UALALA sólo para lxs peques ni tampoco limitado a encuentros de juego libre. A todo esto, lxs niñxs crecían y surgían nuevas demandas, nuevos intereses, nuevas necesidades. Hoy pretendemos que UALALA sea un espacio para todxs, grandes y chicxs, en el que poder estar y (aprender a) ser libres. Un espacio de aprendizaje intergeneracional, donde compartir saberes que nos empoderen desde y para la autonomía. Si algo hemos entendido en este tiempo, es que UALALA puede haber sido gestado como un espacio para lxs más pequeñxs, que ES un espacio de y para ellxs, pero que quienes más nos estamos transformando en la experiencia, somos lxs adultxs, quienes fuimos formados bajo las lógicas dominantes. Proyectamos a UALALA como un espacio pedagogico desde la convicción de que toda practica es pedagógica y que toda pedagogía es política. 
+El espacio, la organización y la visibilidad alcanzada hicieron que el grupo crezca en numero de participantes. A fines del 2015 realizamos un nuevo plenario donde nos propusimos nuevas metas. No alcanzaba un UALALA sólo para lxs peques ni tampoco limitado a encuentros de juego libre. A todo esto, lxs niñxs crecían y surgían nuevas demandas, nuevos intereses, nuevas necesidades. Hoy pretendemos que UALALA sea un espacio para todxs, grandes y chicxs, en el que poder estar y (aprender a) ser libres. Un espacio de aprendizaje intergeneracional, donde compartir saberes que nos empoderen desde y para la autonomía. Si algo hemos entendido en este tiempo, es que UALALA puede haber sido gestado como un espacio para lxs más pequeñxs, que es un espacio de y para ellxs, pero que quienes más nos estamos transformando en la experiencia somos lxs adultxs. Proyectamos a UALALA como un espacio pedagógico desde la convicción de que toda practica es pedagógica y que toda pedagogía es política. 
 
-El 2016 nos encontró, además, siendo una tribu muy numerosa y diversa. Apostamos a ese "mestizaje" y a la vez también a la construcción de pisos de acuerdo, en los cuales cimentar la construcción de cada vez más "sueños compartidos". Al andar  de este año la primera Casa Ualala nos estaba quedando chica. Comenzamos a soñar entonces con un espacio más amplio, con varios ambientes y más verde. Nos organizamos para localizar espacios de la ciudad que estuvieran en desuso o abandonados para luego acercarle a sus propietarixs la invitación a que lo ofrecieran para nuestro proyecto social. A las pocas semanas de iniciar el rastrillaje, surgieron varias oportunidades. Finalmente, hace poco menos de un mes, definimos nuestra nueva sede, la Casa UALALA 2.
+El 2016 nos encontró, además, siendo una tribu muy numerosa y diversa. Apostamos a ese "mestizaje" y a la vez también a la construcción de pisos de acuerdo, en los cuales cimentar la construcción de cada vez más "sueños compartidos". Al andar de este año la primera Casa Ualala nos estaba quedando chica. Comenzamos a soñar entonces con un espacio más amplio, con varios ambientes y más verde. Nos organizamos para localizar espacios de la ciudad que estuvieran en desuso o abandonados para luego acercarle a sus propietarixs la invitación a que lo ofrecieran para nuestro proyecto social. A las pocas semanas de iniciar el rastrillaje, surgieron varias oportunidades. Finalmente, en Junio de este año, definimos nuestra nueva sede, la Casa UALALA 2.
 
 Es una casona de más de un siglo, ubicada en calle Garibaldi 1350, con amplios espacios para realizar cómodamente los encuentros de los chicxs y mucho más. Además de un gran potencial, cuenta con un enorme fondo verde que llega hasta el centro de la manzana, con arbustos y frutales. La casa y el espacio en general han sufrido los embates de los años y el abandono, pero ya estamos trabajando en ponerlo en condiciones para poder usarlo a pleno prontamente.
 
-Tenemos la seguridad de que este gran cambio traerá consigo un importante nuevo crecimiento, que nos acercará todavía más a lo que queremos lograr y logramos en cada hito de esta experiencia que continúa.
-
+Tenemos la seguridad de que este gran cambio traerá consigo un importante nuevo crecimiento, con otros desafíos y dificultades para seguir haciendo posible esta experiencia que continúa.
 
 
 ## Apéndice: Voces de los ualalenses
 
 ### Alejandra, mamá de Luna y Francisco
 
-La primera vez que entré en UALALA me sorprendí, no entendía mucho lo que pasaba…En esa secuencia que visualizaba un grupo de peques que corría y gritaba por toda la casa, otrxs armaban un casita con telas y cajones con una de las facilitadoras, mientras otrxs más chiquitxs jugaban en el arenero. Y un poco con el tiempo, empecé a entender y a formar partes de esas dinámicas de juego libre que siempre se arman espontáneamente y en las que se mezclan las princesas, las espadas, las pinturas, la masa, los trapecios y una manada de lobitxs aulladores, entre otras muchas posibilidades. Es que en este espacio lxs peques pueden elegir día y día, libremente qué juego jugar y qué personaje quieren ser. Dos adultxs suelen ser lxs facilitadorxs de los encuentros, pero no necesariamente son quienes proponen las actividades, ni se trata de que  monopolicen el saber y la toma de decisiones. Los peques suelen hacer sus propios planes en pos de lo que les gusta y las actividades que más disfrutan. Tanto lxs facilitadorxs como el resto de lxs adultxs nos mantenemos atentxs a lo que sucede, pero desde un lugar de no intervención directa. Buscamos que los peques puedan reunir sus propios recursos y poner en práctica sus propias estrategias para resolver los conflictos y las dificultades que se les presentan. De este modo se promueve la autonomía, la resolución colectiva de problemas y la autorregulación del grupo.
+La primera vez que entré en UALALA me sorprendí, no entendía mucho lo que pasaba... En esa secuencia visualizaba un grupo de peques que corría y gritaba por toda la casa, otrxs armaban un casita con telas y cajones con una de las facilitadoras, mientras otrxs más chiquitxs jugaban en el arenero. Y un poco con el tiempo, empecé a entender y a formar parte de esas dinámicas de juego libre que siempre se arman espontáneamente y en las que se mezclan las princesas, las espadas, las pinturas, la masa, los trapecios y una manada de lobitxs aulladores, entre otras muchas posibilidades. Es que en este espacio lxs peques pueden elegir día a día, libremente qué juego jugar y qué personaje quieren ser. Dos adultxs suelen ser lxs facilitadorxs de los encuentros, pero no necesariamente son quienes proponen las actividades, ni se trata de que  monopolicen el saber y la toma de decisiones. Lxs peques suelen hacer sus propios planes en pos de lo que les gusta y las actividades que más disfrutan. Tanto lxs facilitadorxs como el resto de lxs adultxs nos mantenemos atentxs a lo que sucede, pero desde un lugar de no intervención directa. Buscamos que lxs peques puedan reunir sus propios recursos y poner en práctica sus propias estrategias para resolver los conflictos y las dificultades que se les presentan. De este modo se promueve la autonomía, la resolución colectiva de problemas y la autorregulación del grupo.
 
-### Edgardo, papá de Mainumby: 
+### Edgardo, papá de Mainumby 
 
-De UALALA me gusta que somos cada vez más, y eso suma riqueza, diversidad, y necesaria complejidad... me gusta el grupo que hacen les peques, en el que empiezan a florecer lazos bellos, en el que afortunadamente hay roces, y los saben superar... que este año creo que nos reímos más que el año pasado... que asumimos nuestras falencias... que sin tenerla del todo clara, grupalmente se apuesta a UALALA.
+De UALALA me gusta que somos cada vez más, y eso suma riqueza, diversidad, y necesaria complejidad... me gusta el grupo que hacen lxs peques, en el que empiezan a florecer lazos bellos, en el que afortunadamente hay roces, y los saben superar... que este año creo que nos reímos más que el año pasado... que asumimos nuestras falencias... que sin tenerla del todo clara, grupalmente se apuesta a UALALA.
+
+### Mora, 4 años
+
+Ualala es una casa. Es una casa grande, grande. Tenemos algunos juguetes de UALALA, y los ponemos, hay otros juguetes nuevos... tenemos la casita y trajimos todas las cosas a la casa nueva. Trajimos mas cosas, también trajimos la escoba. Antes una escoba en UALALA estaba rota.
 
 ### Magdalena, mamá de Agatha y Samay
 
 UALALA es esto para nosotrxs: libertad de decir, emociones a pleno! Un oasis de sinceridad, construcción colectiva y amor por lxs peques. Un espejo en donde mirarnos como papás que siempre te devuelve una imagen creativa, conciliadora, esperanzadora. UALALA es UALALA: mocos, risas, juguetes, enojos, tiempo compartido en una experiencia que ya nos esta dando anécdotas para toda la vida. La tranquilidad de saber que sea lo que sea y dure lo que dure, ya nos permitió alzar una bandera, crear un manifiesto, seguir un ideal. 
 Una familia en la que uno sabe, con los ojos cerrados, que todxs y cada unx cuidará de nuestrxs hijxs como si fueran sus propixs hijxs, como lo haríamos nosotrxs mismxs aunque los criterios sean diversos.
-
-### Mora, 4 años
-
-Ualala es una casa. Es una casa grande, grande. Tenemos algunos juguetes de UALALA, y los ponemos, hay otros juguetes nuevos... tenemos la casita y trajimos todas las cosas a la casa nueva. Trajimos mas cosas, también trajimos la escoba. Antes una escoba en UALALA estaba rota.
 
 ### Evaristo, 9 años
 
@@ -178,37 +182,33 @@ Para mi UALALA es una casa donde los chicos juegan y se divierten.
 
 UALALA para mí es cumplir un sueño. Es la sonrisa de mis compas, la alegría de lxs chicxs. Es un lugar para concretar proyectos, para compartir aprenderes, para realmente hacer algo diferente y vivir de otra manera, de acuerdo a nuestros ideales. Para mí es "UALALA CORAZÓN DE NIÑO".
 
-### Mainu, 3 años
+### Mainumby, 3 años
 
 Es un lugar a donde sembramos cosas, jugamos y escribimos. 
 
 ### Elisa, mama de Libertad
 
-Ualala es un espacio de crecimiento, de juego, de diversión, de compartir. Compartimos crianzas, aprendizajes, juegos. Lo que mas me gusta de UALALA es el grupo humano, la red. Yo soy facilitadora un encuentro a la semana, estoy con ellos los Viernes. Los encuentros son de juego libre: jugamos desde que llegamos... en general hacemos casas, muchas casas... tenemos muchos juegos de roles donde jugamos a ser lobos, a ser vampiros, a ser otras personas. Leemos y no hacemos nada también. Nos tiramos a descansar.
+UALALA es un espacio de crecimiento, de juego, de diversión, de compartir. Compartimos crianzas, aprendizajes, juegos. Lo que mas me gusta de UALALA es el grupo humano, la red. Yo soy facilitadora un encuentro a la semana, estoy con ellos los Viernes. Los encuentros son de juego libre: jugamos desde que llegamos... en general hacemos casas, muchas casas... tenemos muchos juegos de roles donde jugamos a ser lobos, a ser vampiros, a ser otras personas. Leemos y no hacemos nada también. Nos tiramos a descansar.
 
 ### Dante, 4 años
 
-Es una casa... la nueva UALALA y ahora nos mudamos a una bieeeeen grandee. Lo que mas me gusta de UALALA es que haya juegos y que vayan mis amigos y que hay "facitadores" que nos cuiden.
+Es una casa... la nueva UALALA y ahora nos mudamos a una bieeeeen grandee. Lo que mas me gusta de UALALA es que haya juegos y que vayan mis amigxs y que hay "facitadorxs" que nos cuiden.
 
 ### Julieta, mamá de Mora
 
 UALALA me gusta porque es parte de nuestra ESENCIA, es una búsqueda constante, un  re-plantearse en conjunto. Es grupo, unidad y a la vez subjetividad y diversidad.  Es un lugar que reside en los LAZOS y no en los espacios físicos, que te hace ver la vida mas cariñosamente...
 
-### Nelia, mama de Mainumby
-
-UALALA es un lugar, una forma de hacer... es un montón de cosas. nos juntamos a hacer y ser, chicos y chicas. Se sostiene por la energia de todas las personas que participamos, de diferentes maneras.Cuando fui mamá y antes también, me parecia importante crear un espacio donde crear una educación distinta a la que yo experimenté, que me limitó. Me parece vital crear espacios de aprendizaje más libres para todos, repensar qué hacemos, cómo lo hacemos y qué sentimos.
-
 ### Agatha, 4 años
 
 UALALA es una casa donde se juega, se comparten las cosas, no se pega y no se rasguña.
 
+### Nelia, mama de Mainumby
+
+UALALA es un lugar, una forma de hacer... es un montón de cosas. nos juntamos a hacer y ser, chicos y chicas. Se sostiene por la energía de todas las personas que participamos, de diferentes maneras.Cuando fui mamá y antes también, me parecía importante crear un espacio donde crear una educación distinta a la que yo experimenté, que me limitó. Me parece vital crear espacios de aprendizaje más libres para todos, repensar qué hacemos, cómo lo hacemos y qué sentimos.
+
 ### Malena, 4 años
 
-Para mi UALALA es jugar y divertirme. Jugar a las escondidas y a Frozen y... ehhh... jugar a tigres y a gatos y a Cenicienta... ¡ah! Y al gato con botas y a todo lo que me gusta.
-
-### Franco, papá de Magna y Cielo
-
-Es un proyecto, un espacio de educación... sobre todo de juego con chicxs y grandes donde venimos a aprender, a jugar, a hacer lo que tenemos ganas, a cuidarnos y respetarnos . Lo que mas me gusta es ser facilitador y estar con los peques, que son mis amigxs.
+Para mi UALALA es jugar y divertirme. Jugar a las escondidas y a Frozen y... ehhh... jugar a tigres y a gatos y a Cenicienta... ¡ah! Y a El Gato con Botas y a todo lo que me gusta.
 
 ### Georgina, mamá de Dante y Renata
 
