@@ -55,7 +55,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 29-03-16 | Venta de cajones de verdura |2100|0|
 | 07-04-16 | Pago alquiler abril  |0|1000|
 | 23-04-16 | Feria de ropa |495|0|
-| 23-05-16 | Cable de red 50m((Pagó Franco, reembolsar370!)) |0|0|
+| 23-05-16 | Cable de red 50m |0|370|
 | 26-04-16 | Venta de cajones de verdura |1905|0|
 | 26-04-16 | Compra de 2 rollos de bolsas |0|75|
 | 10-05-16 | Venta de cajones de verdura |1630|0|
@@ -64,8 +64,9 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 24-05-16 | Venta de cajones de verdura |1760|0|
 | 07-06-16 | Venta de cajones de verdura |3065|0|
 | 13-06-16 | Pago alquiler junio  |0|1500|
-| 13-06-16 | Pago de cuadernillos  |0|300|
+| 13-06-16 | Pago de cuadernillos  |0|325|
 | 13-06-16 | helado de regalo a cin |0|250|
+| 21-06-16 | Certificacion de firmas  |0|100|
 | 22-06-16 | Pago alquiler casa garibaldi junio  |0|4000|
 | 20-06-16 | pintura interior pincel lija |0|383|
 | 25-06-16 | caja de guantes  |0|107|
@@ -73,4 +74,17 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 25-06-16 | membrana  |0|630|
 | 25-06-16 | alquiler de contenedor  |0|670|
 | 27-06-16 | Dos candados  |0|230|
+| 27-06-16 | Ingredientes sopa paraguaya  |0|60|
+| 29-06-16 | Ferrite amarillo, fijador  |0|96|
+| 02-07-16 | Ferrite amarillo, rojo, 2fijadores, conector manguera, tornillos, tarugos  |0|360|
+| 04-07-16 | Pago conexion de luz  |0|428|
+| 04-07-16 | Carga garrafa  |0|130|
+| 05-07-16 | Venta de cajones de verdura  |1230||
+| 06-07-16 | Telas x 40mts  |0|320|
+| 06-07-16 | Yerba, papel higienico, té (Ne)  |0|119|
+| 06-07-16 | Aceite, vinagre, especias (para conserva de berenjenas)  |0|50|
+| 06-07-16 | Nafta Magui (auto de la mama)  |0|50|
+| 06-07-16 | Pintura y entonador  |0|680|
+| 07-07-16 | Pago alquiler julio  |0|2000|
+| 13-07-16 | Picos de gas y manguera  |0|180|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
