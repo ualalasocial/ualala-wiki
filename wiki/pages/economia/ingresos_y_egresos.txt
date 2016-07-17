@@ -88,4 +88,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 06-07-16 | Pintura y entonador  |0|680|
 | 07-07-16 | Pago alquiler julio  |0|2000|
 | 13-07-16 | Picos de gas y manguera  |0|180|
+| 27-06-16 | Plata "en calle" ((deben cajones Mai y Gon, Magui y Dario, Her y Yorg, cajon de Gabriela Di Biasse -no se quien lo llevo y cobro-  ||930|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
