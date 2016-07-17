@@ -68,6 +68,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 13-06-16 | helado de regalo a cin |0|250|
 | 21-06-16 | Certificacion de firmas  |0|100|
 | 22-06-16 | Pago alquiler casa garibaldi junio  |0|4000|
+| 20-06-16 | Brocha, latizador, cal, lija  |0|220|
 | 20-06-16 | pintura interior pincel lija |0|383|
 | 25-06-16 | caja de guantes  |0|107|
 | 25-06-16 | Cloro+trapodepiso  |0|100|
