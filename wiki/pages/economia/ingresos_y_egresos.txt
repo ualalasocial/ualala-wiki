@@ -79,7 +79,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 02-07-16 | Ferrite amarillo, rojo, 2fijadores, conector manguera, tornillos, tarugos  |0|360|
 | 04-07-16 | Pago conexion de luz  |0|428|
 | 04-07-16 | Carga garrafa  |0|130|
-| 05-07-16 | Venta de cajones de verdura  |1230||
+| 05-07-16 | Venta de cajones de verdura |1230|0|
 | 06-07-16 | Telas x 40mts  |0|320|
 | 06-07-16 | Yerba, papel higienico, té (Ne)  |0|119|
 | 06-07-16 | Aceite, vinagre, especias (para conserva de berenjenas)  |0|50|
