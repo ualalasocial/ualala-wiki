@@ -35,6 +35,7 @@
 ## Resumen de asambleas 
 
 <div id="asambleas">
+
 1. [[Asambleas:Resumen del 2016/07/18]] |
 1. [[Asambleas:Resumen del 2016/07/11]] | Definicion sobre incorporacion flias. Organizacion compra. Área comunicación
 1. [[Asambleas:Resumen del 2016/07/04]] | Avances sobre casas Ualala. Coordinacion vacas de invierno
