@@ -18,7 +18,10 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 ### Registro de cada encuentro
 
 #### 2016
-
+* [[pedagogia:encuentro:2016-07-18|Encuentro del Lunes 18/07/16]]
+* [[pedagogia:encuentro:2016-07-15|Encuentro del Viernes 15/07/16]]
+* [[pedagogia:encuentro:2016-07-13|Encuentro del Miércoles 13/07/16]]
+* [[pedagogia:encuentro:2016-07-11|Encuentro del Lunes 11/07/16]]
 * [[pedagogia:encuentro:2016-07-08|Encuentro del Viernes 08/07/16]]
 * [[pedagogia:encuentro:2016-07-06|Encuentro del Miercoles 06/07/16]]
 * [[pedagogia:encuentro:2016-07-04|Encuentro del Lunes 04/07/16]]
