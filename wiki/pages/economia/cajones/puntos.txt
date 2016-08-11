@@ -6,7 +6,7 @@
 * Sábado de 9:00 a 12:30 en Garibaldi e Irigoyen (merecería La Paz)
 
 ----
-<WRAP center round download 50%>
+<WRAP center round download 100%>
 **[[http://wiki.ualala.org/doku.php/economia:cajones:puntos?do=export_pdf|Guardar esta información]]**
 <wrap lo>
 Descarga el listado de puntos de pago en formato PDF para que puedas consultarlo sin iInterne
