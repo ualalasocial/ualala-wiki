@@ -9,6 +9,6 @@
 <WRAP center round download 100%>
 **[[http://wiki.ualala.org/doku.php/economia:cajones:puntos?do=export_pdf|Guardar esta información]]**
 <wrap lo>
-Descarga el listado de puntos de pago en formato PDF para que puedas consultarlo sin iInterne
+Descarga el listado de puntos de pago en formato PDF para que puedas consultarlo si no tenés conexión a Internet.
 </wrap>
 </WRAP>
