@@ -27,6 +27,7 @@
 
 <div id="asambleas">
 
+1. [[Asambleas:Resumen del 2016/08/22]] | Asamblea dedicada a Economia y proyecto productivo
 1. **[[Plenarios:Resumen del 2016/08/14]|PLENARIO 14/08]]**
 1. [[Asambleas:Resumen del 2016/08/08]] | Mas avances para el plenario. Compras comunitarias de otros productos
 1. [[Plenarios:Resumen del 2016/08/01]] | Balance de las semanas de vacaciones. Propuesta de hacer un 3er 
@@ -96,7 +97,9 @@ plenario.
 
 ## Resumen de plenarios
 
-* [[Plenarios:Resumen del 2015/08/08]] | Abocado a definir las bases fundamentales del proyecto y el esquema de trabajo en comisiones.
+1. [[Plenarios:Resumen del 2016/08/14]]] | Abocado a consensuar el rumbo pedagógico del proyecto, la importancia de la desescolarización y el juego libre
+1. [[Plenarios:Resumen del 2015/11/28|PLENARIO 28/11]] | Abocado a definir el futuro del proyecto.
+1. [[Plenarios:Resumen del 2015/08/08]] | Abocado a definir las bases fundamentales del proyecto y el esquema de trabajo en comisiones.
 
 
 
