@@ -3,8 +3,8 @@
 * <del>Jueves de 18:30 a 21:00 en **Garibaldi 1350**</del>
 * <del>Viernes de 15:00 a 18:00 en **Garibaldi 1350**</del>
 * <del>Viernes de 16:30 a 20:00 en **Garibaldi e Irigoyen** (merecería La Paz)</del>
-* Sábado de 9:00 a 12:30 en **Garibaldi e Irigoyen** (merecería La Paz)
-* Domingo de 14:00 a 20:00 en **Garibaldi 1350**
+* <del>Sábado de 9:00 a 12:30 en **Garibaldi e Irigoyen** (merecería La Paz)</del>
+* <del>Domingo de 14:00 a 20:00 en **Garibaldi 1350**</del>
 * Lunes de 11:00 a 14:00 en **Alvear 502 casa 3**
 * Lunes de 9:30 a 13:00 en **Navarro 11**
 
