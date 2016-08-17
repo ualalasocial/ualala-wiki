@@ -19,7 +19,10 @@
     * esta la idea de hablar con Franco (el dueño) y la vecina para pedirle materiales que haya en la casa de al lado que van a demoler.
     * ¿queremos activar pedidos sistematicos/regulares de materiales a comercios y empresas de la zona? 
 
+
+
 ## FLiA
+
 
 * Encaramos? Convocamos a otro/s colectivos? 
 
