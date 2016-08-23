@@ -1,29 +1,168 @@
-### Temas de economia que estaban en el plenario
 
-* Una vez acordado un plan de acondicionamiento de la Casa, ¿cuanto dinero necesitamos para concretarlo?
-  * ¿Deberiamos calcular un presupuesto semestral/anual?
-
-* Vías de autofinanciamiento
-  * ¿como generamos mas dinero?
-    * aportes /  donaciones 
-      * ¿queremos activar una cooperadora solidaria con aportes mensuales de los miembros?
-      * ¿queremos activar vias de donacion de dinero para que familiariares y amigos?
-      * ¿queremos posicionar el proyecto a nivel internacional para buscar donaciones mas grandes desde el exterior?
-    * ventas o servicios
-      * ¿queremos desarrollar mas la idea de los cajones? ¿de que forma?
-      * ¿queremos generar un emprendimiento productivo para sostener el proyecto? ¿ideas?
-        * disponemos de maquinas de coser ...
-    * actividades para recaudar dinero
-      * ¿queremos hacer actividades publicas (varietes, fiestas, shows, proyecciones de cine) para recaudar dinero? ¿en que plazo es factible que podamos hacerlo?
-  * ¿como conseguimos donaciones de materiales?
-    * esta la idea de hablar con Franco (el dueño) y la vecina para pedirle materiales que haya en la casa de al lado que van a demoler.
-    * ¿queremos activar pedidos sistematicos/regulares de materiales a comercios y empresas de la zona? 
+* Presentes: YOR, GONZA, FRANCO, CINTIA, VANESA, AGUS, HERNAN,
+* Facilitadores: MAI y ED
 
 
+## Debate sobre proyectos productivos
 
-## FLiA
+HER: plantear de entrada la diferencia entre hacer un proyecto productivo que incluya a las familias o solo para sostener el proyecto
 
 
-* Encaramos? Convocamos a otro/s colectivos? 
+### Sostenimiento de familias y proyecto
 
-## inauguracion de la casa
+Se plantea que es necesario primero saber quienes estarian dispuestos a encarar algo tan ambicioso, teniendo en cuenta que tenemos necesidad de ponerle mas tiempo al proyecto y que ademas hay varios que quieren cambiar de laburo.
+
+Hacemos ronda para que todos clarifiquen su posición al respecto:
+
+* Hernan: quiero sumarme
+* Gonza: yo tambien, estoy dispuesto
+* Yorsha: Yo tambien. Creo que quizas el laburo no sea todo lo que nos gustaria, pero ya el hecho de no estar esclavizado es muy valioso.
+* Agus: me gusta la idea pero no la veo, me cuesta visualizarlo
+* Manu: hay que verlo bien, estoy re de acuerdo
+* Vane: me re gusta la idea, creo que mi familia seria una de las que coparia ya que queremos cambiar de laburo. Me gustaria poder seguir teniendo tiempo.
+* Ale: no dejaría mi laburo, me encanta mi laburo, hago investigación y docencia. Quizas la docencia podria dejarla, no es algo que me coparía mucho. Creo que depende de la idea.
+* Cin: estoy completamente dispuesta a participar.
+* Magui: a mi me parece super interesante, creo que tiene mucho que ver con el bienestar de los miembros del proyecto. Esto siempre teniendo en cuenta que en breve partiremos, si estuvieramos acá nos sumariamos.
+* Fran: Me parece muy interesante encarar un desafio asi. En lo personal no veo otra forma de vivir que no sea desde cierta autonomia, asi lo venimos haciendo nosotros hace varios años. Creo que esta bueno intentarlo.
+
+#### Ideas
+
+* Arrendar un campo y cultivarlo
+* Fabrica de bidones de plástico
+* ...
+
+Se acuerda abrir una linea de trabajo paralela, similar a la forma de accionar que asumimos con la busqueda de espacios. Ir aportando ideas de proyectos productivos grandes.
+
+
+### Sostenimiento solo del proyecto
+
+#### Sobre el prestamo
+
+Manu tiene un contacto, se podria charlar para conocer las condiciones. Es un particular con mucha plata que se dedica a hacer prestamos.
+
+Hicimos un presupuesto estimado al vuelo :
+
+* Aprox para reparaciones: 5000
+  * materiales electricos: 1000
+  * techo: 1500
+  * pintura: xxx
+  * aberturas: xxx
+  * cerramientos
+
+* materiales para chicos: 5000
+  * material de gimnasio
+  * materiales de construccion
+  * herramientas de ferreteria
+  * estructuras
+
+* amoblamientos varios: 5000
+  * mesas
+  * sillas
+  * estanterias
+  * guardarropas
+
+Estimamos entonces unos 20000 $AR aprox como monto para el prestamo.
+
+### Presupuesto mensual
+
+Pagariamos un prestamo de 20000 en 12 meses por eso multiplicamos el presupuesto mensual x 2
+
+Estimado mensual: 6000
+
+* Cajones: 2500
+* Cooperadora: 1000
+* Nos faltan: 2500
+
+#### Ideas para cubrir lo que nos falta
+
+* Cajón de verduras, mejorarlo
+  * ¿agregar algun servicio extra?
+  * Se charlo sobre la idea ya evaluada de los brotes de semillas
+* Molienda de harina
+  * Fran propone comprar un molino electrico (4500 $AR o menos si no es uno importado) y hacer harina de diferentes semilllas
+  * Nueva Tierra, distribuidora de productos organicos, ofrece 14 harinas de las cuales solo tiene hoy povision de 4
+  * El Ombu, proyecto educativo de San Nicolas, se sostiene vendiendo harina organica. Franco les escribio pidiendo mas info.
+  * Proximo paso: preguntarle a Leandro, de Nueva Tierra, sobre el nivel de pedidos que tiene en las harinas de semillas para ver si es rentable. Ale y Franco se ocupan
+* Proyecto editorial
+  * esta bueno por varias razones, mas alla de lo economico. Puede dar un manguito... seria un proyecto creativo y de difusión.
+    * Hernan: me parece bueno que exista, no se si puedo aportar mucho. Fletes, encuadernacion
+    * Yor: me gusta la idea. Me gusta que sea con reciclado.
+    * ... nadie mas dijo nada
+  * Proximo paso: consultar por la impresora de La Nubecita. Ed puede preguntarle
+
+### Valorizar socialmente el proyecto
+
+A partir de que los cajones ya no rinden (porque no podemos competir con verdulerias que ofrecen un cajon mas completo y mejor servicio), acordamos fortalecer el aspecto solidario del cajon, dandole visibilidad a que al comprar el cajon se sostiene un proyecto comunitario y social.
+
+* activar la comunicacion hacia la comunidad
+  * pintar el frente de la casa, mostrar al barrio
+  * abrimos el circulo de musica de
+
+#### Cooperadora
+
+Cintia sera la cobradora y llevara el registro de la cooperadora. Se estima 100 por familia.
+
+#### Bono contribucion
+
+* queremos activar vias de donacion de dinero para que familiariares y amigos
+* Proximos pasos
+  * Hacer bonos contribucion
+  * Franco aporta diseño
+  * Imprimir!!
+
+#### Divulgacion internacional
+
+* queremos posicionar el proyecto a nivel internacional para buscar donaciones mas grandes desde el exterior
+* Proximos pasos
+  * Sitio en ingles, lo hace Yor
+
+
+## Pedagogia
+
+* Temas para la reunion del Jueves que viene
+  * Los encuentros de los viernes
+    * muchos chicxs, urge tener mas facilitadores
+    * no puede ser al azar que haya padres acompañando
+    * darle una solucion
+      * ¿hacerlo con los facilitadores que ya tenemos?
+      * ¿sumar nuevos? ¿cual el proceso de incorporacion al rol?
+      * ¿reflotamos la idea de los acompañantes y lo hacemos mas organizadamente?
+  * Encuentros de los miercoles, pocos peques
+  * Conversar sobre posible cambio de horarios para permitir que pibes escolarizados
+
+
+## Jornadas de trabajo
+
+* Se fija el sabado del mediodia a la tardecita como jornada abierta de trabajo. Se difunde en redes.
+* Estaran el proximo sabado:
+  * Hernan
+  * ...?
+
+## Nuevas familias
+
+* Este miercoles vienen 2 familias a conocer el proyecto a partir de las 14hs
+
+## FLIA
+
+* Primera reunion organizativa sera el Jueves 1 a las 19.30hs
+* Activar la convocatoria a otros grupos, lo haremos esta semana.
+* La fecha seria el 9 y 10 de Diciembre
+
+## Inauguracion
+
+Se inauguro la casa.
+
+## Proxima compra
+
+* Se necesitan puntos de pago
+* Preguntar a Magui por el celular para el WhatsApp de la compra.
+* Va a salir un nuevo diseño del banner.
+*
+
+## Comunicacion
+
+* Haremos un taller de herramientas informaticas en casa de Franco donde se enseñará a usar la wiki, editar el blog, proceso de compras. Fecha a definir.
+
+## Deudas
+
+* Se pagaron los 500 $AR a Franco.
