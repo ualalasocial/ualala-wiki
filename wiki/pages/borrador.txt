@@ -4,7 +4,9 @@ https://github.com/sgitkene/yowbot
 
 http://www.watools.es/pwd.html
 
+## Calendario
 
+{{davcal>name=Test Calendar,description=My first Wiki Calendar,color=red,view=agendaWeek}}
 
 ## Molienda de semillas
 
