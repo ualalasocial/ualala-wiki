@@ -1,11 +1,17 @@
-## Comisiones
+## Áreas de trabajo
 
-* [[Pedagogía:Inicio|Comisión de Pedagogía]]
-* [[Economía:Inicio|Comisión de Economía]]
-* [[Comunicación:Inicio|Comisión de Comunicación]]
-* [[Infraestructura:Inicio|Comisión de Infraestructura]]
+* [[Pedagogía:Inicio|Área de Pedagogía]]
+* [[Economía:Inicio|Área de Economía]]
+* [[Comunicación:Inicio|Área de Comunicación]]
+* [[Infraestructura:Inicio|Área de Infraestructura]]
 
-## Horario de encuentros
+## Proyectos
+
+* [[FLIA2016:Inicio|FLIA 2016]]
+
+## Sobre los encuentros
+
+### Horarios
 
 * Lunes: 18 a 21
 * Miercoles: 11 a 14
@@ -13,9 +19,6 @@
 
 ### Facilitadores de los Lunes
 
-* lunes 08/8: edgard y franco
-* lunes 15/8: nelia y franco
-* lunes 22/8: edgard y eli
 * lunes 29/8: nelia y magui
 ----
 * lunes 05/9: edgar y mai
