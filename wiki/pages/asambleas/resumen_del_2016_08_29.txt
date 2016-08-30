@@ -48,9 +48,9 @@ sumar adultxs que acompañen haciendo otras cosas. Relajar, aprovechar esos mome
   * Cerrar el lateral del fondo
 
 
-## Economia
+### Economia
 
-### Lluvia de ideas
+#### Lluvia de ideas
 
 * Aprovechar el espacio
   * Variete
@@ -75,7 +75,7 @@ sumar adultxs que acompañen haciendo otras cosas. Relajar, aprovechar esos mome
   * Los servicios se ofrecen desde UALALA
   * Los que lo hacen lo dejan en UALALA
 
-### Cajones
+#### Cajones
 
 Conversamos sobre la venta de cajones de mañana. Tenemos 22 encargos.
 
