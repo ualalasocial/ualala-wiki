@@ -1,1 +1,1 @@
-{{url>https://calendar.google.com/calendar/embed?src=experienciaeducativaintegral%40gmail.com&ctz=America/Argentina/Buenos_Aires [1000,1000]|alternate text}}
+{{url>https://calendar.google.com/calendar/embed?src=experienciaeducativaintegral%40gmail.com&ctz=America/Argentina/Buenos_Aires [1000px,1000px]|alternate text}}
