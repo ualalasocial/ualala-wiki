@@ -1,2 +1,3 @@
-Este calendario se puede editar desde [http://calendar.google.com|este link], ingresando con el usuario experienciaeducativaintegral@gmail.com.
+Este calendario se puede editar desde [[http://calendar.google.com|este link]], ingresando con el usuario experienciaeducativaintegral@gmail.com. Se ve mejor en celular desde [[https://calendar.google.com/calendar/embed?src=experienciaeducativaintegral%40gmail.com&ctz=America/Argentina/Buenos_Aires|este link]].
+
 {{url>https://calendar.google.com/calendar/embed?src=experienciaeducativaintegral%40gmail.com&ctz=America/Argentina/Buenos_Aires [1000px,1000px]|alternate text}}
