@@ -32,6 +32,7 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 * [[comunicacion:enviar_boletines|Envío de boletines]]
 * [[Agenda de contactos de prensa]]
 * [[Contenidos para difundir en redes sociales]]
+* [[Identidad gráfica]]
 
 ## Articulos propios
 
