@@ -1,0 +1,38 @@
+## Logotipo
+
+Existen dos logos oficiales de UALALA, la versión horizontal (la clásica) o la circular/cuadrada:
+
+### Horizontal
+
+{{:logo-horizontal.svg?400}}
+
+* [[http://wiki.ualala.org/lib/exe/fetch.php/logo-horizontal.svg|Descargar versión horizontal]]
+
+
+### Cuadrada
+
+{{:logo-cuadrado.svg?200}}
+
+* [[http://wiki.ualala.org/lib/exe/fetch.php/logo-cuadrado.svg|Descargar versión cuadrada]]
+
+
+## Tipografías
+
+La tipografía oficial se llama Brandon. La podés descargar desde [[http://wiki.ualala.org/lib/exe/fetch.php/comunicacion:tipografias-brandon.zip|este enlace]].
+
+Para instalarla en tu sistema operativo:
+
+* En Linux: descomprimis el contenido del ZIP en la carpeta ```/home/usuario/.fonts/```
+* En Windows: descomprimis el contenido del ZIP en la carpeta ```C:\windows\fonts```
+
+## Materiales gráficos
+
+Todo el material producido esta disponible en este repositorio: https://github.com/ualalasocial/ualala-grafica.
+
+Podes descargarte todo el contenido usando [[https://github.com/ualalasocial/ualala-grafica/archive/master.zip|este enlace]] o con el comando: 
+
+```git clone https://github.com/ualalasocial/ualala-grafica```
+
+## Herramientas de diseño
+
+Todos los diseños se realizaron originalmente con [[http://inkscape.org|Inkscape]] y [[http://gimp.org|Gimp]], programas de Software Libre disponibles para su descarga.
