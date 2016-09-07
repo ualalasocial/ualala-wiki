@@ -38,6 +38,8 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 
 * [[comunicacion:articulo_libro_unmdp|Articulo para libro de la UNMdP]]
 * [[comunicacion:articulo_libroprod_unmdp|Articulo para libro prod de la UNMdP]]
+* [[comunicacion:articulo-EPEP|Articulo 3er EPEP]]
+
 
 ### Sitios web
 
