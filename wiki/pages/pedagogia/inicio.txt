@@ -11,6 +11,10 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 * NELIA (Titular)
 * DARIO (Titular)
 
+## Paginas
+
+* [[pedagogia:guias|Guías pedagógicas]]
+
 ## Registro
 
 ### Registro de cada encuentro
