@@ -12,5 +12,6 @@ En esta página vamos a ir dando forma al documento con los lineamientos pedagó
 
 * [[https://www.p2pu.org/assets/uploads/learning_circle_downloads/facilitator_handbook.pdf|Guia de facilitador de circulos de aprendizaje de la P2P University]]. 
   * Son tipo cursos abiertos de 
+
 * [[http://tradeschool.coop/quito/|La trueca]]. Quito. 
   * Proyecto de intercambio de saberes en base al trueque. Se arman actividades para intercambiar todo tipo de conocimientos. Son dirigidos con figura de profesor
