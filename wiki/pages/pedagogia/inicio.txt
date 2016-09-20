@@ -92,7 +92,7 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 1. [[pedagogia:proceso:ebar|Evar]] (9)
 1. [[pedagogia:proceso:mora|Morita]] (4)
 1. [[pedagogia:proceso:dante|Dante]] (4)
-1. [[pedagogia:proceso:magna|Magna]] (4)
+1. [[pedagogia:proceso:magna|Magna]] (5)
 1. [[pedagogia:proceso:male|Male]] (4)
 1. [[pedagogia:proceso:mainu|Mainu]] (3)
 1. [[pedagogia:proceso:agatha|Agatha]] (4)
@@ -100,9 +100,9 @@ Es el grupo conformado por lxs facilitadorxs. Hacen el seguimiento del proceso d
 1. [[pedagogia:proceso:rena|Rena]] (2)
 1. [[pedagogia:proceso:samai|Samai]] (1)
 1. [[pedagogia:proceso:alegria|Alegria]] (1)
-1. [[pedagogia:proceso:antu|Antu]] (1)
+1. [[pedagogia:proceso:antu|Antu]] (2)
 1. [[pedagogia:proceso:luna|Luna]] (1)
-1. [[pedagogia:proceso:greta|Greta]] (8m)
+1. [[pedagogia:proceso:greta|Greta]] (1)
 
 ## Listado de tareas
 
