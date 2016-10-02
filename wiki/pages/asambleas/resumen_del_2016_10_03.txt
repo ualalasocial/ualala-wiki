@@ -7,5 +7,6 @@
 * Evaluacion del cambio de la dinmica de los registros
 * Evaluacion del cambio de dias y horarios de los encuentros
 * Circulos
-  * Puesta en comun y definicion de propuesta de definicion de Circulo que aporta Franco (http://wiki.ualala.org/doku.php/pedagogia:guias#circulos_de_aprendizaje_libre)
+  * Puesta en comun y definicion del tema Circulo 
+    * propuesta de definicion: http://wiki.ualala.org/doku.php/pedagogia:guias#circulos_de_aprendizaje_libre
   * Definir dia y fechas de circulo de autoedicion y cerveza
