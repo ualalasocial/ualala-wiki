@@ -127,7 +127,6 @@ plenario.
 1. Hernan: 249 4324283
 1. Cintia: 221 5482295
 1. Edgard: 249 4631017
-1. Zampa:  249 4551401
 1. Yorsha: 249 4550247
 1. Franco: 249 4020259
 1. Juli:   249 4309248
@@ -142,6 +141,7 @@ plenario.
 1. Marcelo:
 1. Agustina: 249 4573260
 1. Alejandra: 249 4352450
+1. Eugenio: 
 
 ## Correos
 
