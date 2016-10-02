@@ -2,11 +2,28 @@ En esta página vamos a ir dando forma al documento con los lineamientos pedagó
 
 ## Encuentros de Juego Libre
 
+
+
+
 ### Insumos
 
 * [[pedagogia:teoria_playwork|Seleccion de textos sobre Playwork]]
 
 ## Circulos de Aprendizaje Libre
+
+### Posible definición
+
+Consideramos circulo de aprendizaje libre:
+
+* un encuentro de personas interesadas en un tema en particular dispuestas a compartir aprendizajes y conocimientos sobre el mismo, valorando estos no como fines sino como procesos siempre incompletos y entendiendo que se potencian al ser colectivos 
+* hablamos de circulo porque propiciamos relaciones de pares entre los participantes y con equidistancia del centro, donde virtualmente ubicamos el tema que nos convoca
+* no existen roles fijos ni pre-determinados entre los participantes por lo que los lugares de enseñantes y aprendices varian dinamicamente, reconociendo que existen diversos grados de experisia y conocimiento sobre el tema entre quienes hacen parte del Circulo
+* los circulos podrian conformarse de forma abierta, con personas de diferentes edades indistintamente y abordar el tema desde lo práctico y/o teórico
+* las dinámicas, itinerarios, didactias y metodologias de aprendizaje se definen y consensuan entre todos los participantes, pudiendo combinar abordajes mas o menos directivos atendiendo siempre a que buscamos generar procesos autogestivos, de autoregulación, no cohercitivos y gozosos.
+* siguiendo esto último, en los Circulos no existen las evaluaciones, certificaciones o arancelamientos de ningún tipo 
+
+
+
 
 ### Insumos y referencias
 
@@ -15,3 +32,4 @@ En esta página vamos a ir dando forma al documento con los lineamientos pedagó
 
 * [[http://tradeschool.coop/quito/|La trueca]]. Quito. 
   * Proyecto de intercambio de saberes en base al trueque. Se arman actividades para intercambiar todo tipo de conocimientos. Son dirigidos con figura de profesor. Esta movida es parte de las Trade Schools, proyecto global cercano a las Free Skools (iniciativas educativas de corte anarco).
+
