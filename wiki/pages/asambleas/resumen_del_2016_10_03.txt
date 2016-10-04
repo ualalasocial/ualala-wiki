@@ -1,16 +1,6 @@
 
 # Asamblea de pedagogía del 3/10/16
 
-## Temario
-
-* Puesta en comun de los encuentros y los peques
-  * Evaluacion del cambio de dias y horarios de los encuentros
-  * Evaluacion del cambio de la dinmica de los registros
-* Circulos
-  * Puesta en comun y definicion del tema Circulo 
-    * propuesta de definicion: http://wiki.ualala.org/doku.php/pedagogia:guias#circulos_de_aprendizaje_libre
-  * Definir dia y fechas de circulo de autoedicion y cerveza
-
 ## Puesta en comun de los encuentros y los peques
 
 ### Sobre los registros
@@ -100,6 +90,6 @@ Feria de la autonomia: stands con produccions de ualalenses que explican como se
 
 ## Temas para la proxima
 
-* Definicion de circulo
+* Definicion de circulo (http://wiki.ualala.org/doku.php/pedagogia:guias#circulos_de_aprendizaje_libre)
 * Familias nuevas
 * Espacio
