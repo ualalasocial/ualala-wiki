@@ -42,5 +42,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 27-09-16 | Compra de cajones ((aun deben Eli y Mai los suyos aunque esta sumado como si estuvieran pagos)) |1090|0|
 | 30-09-16 | 2 rollos de membrana para techo |0|1308|
 | 30-09-16 | Canilla para patio |0|270|
-| 03-10-16 | Para control: Magu y Daro deben 60p. Corresponden 50 a prestamo para regalo y 10 a tapas de empanadas |0|60|
+| 03-10-16 | Para control: Magui y Dario deben 60p. Corresponden 50 a prestamo para regalo y 10 a tapas de empanadas |0|60|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
