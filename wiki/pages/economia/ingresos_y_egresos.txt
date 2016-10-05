@@ -5,7 +5,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 10-09-15 | Alquiler Septiembre |0|1000|
 | 10-09-15 | Gas Septiembre |0|30|
 | 12-09-15 | Llave de paso |0|201|
-| 12-09-15 | Dr.bio destapacañerías |0|30|
+| 12-09-15 | Dr.bio-destapacañerías- |0|30|
 | 15-09-15 | Venta de cajones de verduras |500|0|
 | 19-09-15 | Venta en Feria de ropa |390.6|0|
 | 27-09-15 | Rompecabezas |0|88|
@@ -16,7 +16,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 12-10-15 | Cinta ancha y clavos |0|64|
 | 14-10-15 | Venta de cajones de verduras |1275|0|
 | 16-10-15 | Alquiler Octubre |0|1000|
-| 16-10-15 | Burlete |0|97|
+| 16-10-15 | Burlete((Pagó Gonza, reembolsar!)) |0|97|
 | 28-10-15 | Lavandina |0|18|
 | 28-10-15 | Madera para estante,tornillos,tarugos y repuesto para mochila de inodoro |0|505|
 | 29-10-15 | Venta de cajones de verduras |1645|0|
@@ -24,106 +24,42 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 07-11-15 | Alquiler noviembre |0|1000|
 | 09-11-15 | Venta de cajones de verduras |1575|0|
 | 10-11-15 | Acrílicos |0|90|
-| 21-11-15 | Art de fereteria (fluido manchester+tornillos) |0|156.5|
+| 21-11-15 | Art de fereteria (fluido manchester+tornillos)  |0|156.5|
 | 24-11-15 | Venta de cajones de verdura |1100|0|
-| 03-12-15 | Art de limpieza |0|41|
+| 03-12-15 | Art de limpieza  |0|41|
 | 08-12-15 | Venta de cajones de verdura |1300|0|
-| 11-12-15 | Pago alquiler diciembre enero |0|2000|
+| 11-12-15 | Pago alquiler diciembre - enero  |0|2000|
 | 22-12-15 | Venta de cajones de verdura |925|0|
-| 23-12-15 | Pipeta |0|100|
+| 23-12-15 | Pipeta  |0|100|
 | 23-12-15 | 2 libros anti prince |0|160|
-| 23-12-15 | Cloro |0|105|
+| 23-12-15 | Cloro  |0|105|
 | 02-02-16 | Venta de cajones de verdura |720|0|
 | 15-02-16 | Venta de cajones de verdura |840|0|
-| 29-02-16 | compra art de limpieza |0|110|
-| 29-02-16 | compra avena girasol pasas etc |0|540|
-| 01-03-16 | compra de rollo de bolsas |0|37|
+| 29-02-16 | compra art de limpieza  |0|110|
+| 29-02-16 | compra avena girasol pasas etc   |0|540|
+| 01-03-16 | compra de rollo de bolsas   |0|37|
 | 01-03-16 | Venta de cajones de verdura |1250|0|
-| 02-03-16 | compra veneno de ratas |0|96|
-| 02-03-16 | gastos de impresion |0|100|
-| 07-03-16 | Pago alquiler febrero marzo |0|2000|
-| 08-03-16 | pinceles y temperas |0|143.5|
-| 08-03-16 | pintura pizarron |0|44|
+| 02-03-16 | compra veneno de ratas   |0|96|
+| 02-03-16 | gastos de impresion   |0|100|
+| 07-03-16 | Pago alquiler febrero marzo  |0|2000|
+| 08-03-16 | pinceles y temperas   |0|143.5|
+| 08-03-16 | pintura pizarron   |0|44|
 | 15-03-16 | Venta de cajones de verdura |1900|0|
-| 15-03-16 | Alcancia de ualala |200|0|
+| 08-03-16 | Alcancia de ualala   |0|200|
 | 29-03-16 | Venta de cajones de verdura |1200|0|
-| 29-03-16 | Renovacion x 1 año de ualala.org |0|215|
-| 30-03-16 | pipeta |0|150|
-| 30-03-16 | gastos construccion de carro |0|500|
-| 30-03-16 | gastos libreria |0|500|
-| 07-04-16 | Pago alquiler abril |0|1000|
+| 04-03-16 | participacion epep   |0|0|
+| 12-03-16 | Renovacion x 1 año de "ualala.org"|0|215|
+| 12-03-16 | pipeta   |0|150|
+| 12-03-16 | gastos construccion de carro   |0|500|
+| 12-03-16 | gastos libreria   |0|500|
+| 29-03-16 | Venta de cajones de verdura |2100|0|
+| 07-04-16 | Pago alquiler abril  |0|1000|
 | 23-04-16 | Feria de ropa |495|0|
-| 23-04-16 | Cable de red 50m |0|370|
+| 23-05-16 | Cable de red 50m((Pagó Franco, reembolsar!)) |0|370|
 | 26-04-16 | Venta de cajones de verdura |1905|0|
 | 26-04-16 | Compra de 2 rollos de bolsas |0|75|
 | 10-05-16 | Venta de cajones de verdura |1630|0|
-| 10-05-16 | Pago alquiler mayo |0|1500|
-| 23-05-16 | Pago cena de encuentro |0|150|
+| 10-05-16 | Pago alquiler mayo  |0|1500|
+| 23-05-16 | Pago cena de encuentro  |0|150|
 | 24-05-16 | Venta de cajones de verdura |1760|0|
-| 07-06-16 | Venta de cajones de verdura |3065|0|
-| 13-06-16 | Pago alquiler junio |0|1500|
-| 13-06-16 | Pago de cuadernillos |0|325|
-| 13-06-16 | helado de regalo a cin |0|250|
-| 21-06-16 | Certificacion de firmas |0|100|
-| 22-06-16 | Pago alquiler casa garibaldi junio |0|4000|
-| 22-06-16 | Brocha, latizador, cal, lija |0|220|
-| 22-06-16 | pintura interior pincel lija |0|383|
-| 25-06-16 | caja de guantes |0|107|
-| 25-06-16 | Cloro y trapodepiso |0|100|
-| 25-06-16 | membrana |0|630|
-| 25-06-16 | alquiler de contenedor |0|670|
-| 27-06-16 | Dos candados |0|230|
-| 27-06-16 | Ingredientes sopa paraguaya |0|60|
-| 29-06-16 | Ferrite amarillo, fijador |0|96|
-| 02-07-16 | Ferrite amarillo, rojo, 2fijadores, conector manguera, tornillos, tarugos |0|360|
-| 04-07-16 | Pago conexion de luz |0|428|
-| 04-07-16 | Carga garrafa |0|130|
-| 05-07-16 | Venta de cajones de verdura |1230|0|
-| 06-07-16 | Telas x 40mts |0|320|
-| 06-07-16 | Yerba, papel higienico, té |0|119|
-| 06-07-16 | Aceite, vinagre, especias (para conserva de berenjenas) |0|50|
-| 06-07-16 | Nafta Magui (auto de la mama) |0|50|
-| 06-07-16 | Pintura y entonador |0|680|
-| 07-07-16 | Pago alquiler julio |0|2000|
-| 13-07-16 | Picos de gas y manguera |0|180|
-| 15-07-16 | Materiales de ferreteria |0|20|
-| 17-07-16 | Pago deudas de cajon Gonza y Her |600|0|
-| 18-07-16 | Ganancia de cajones de verdu |2050|0|
-| 01-08-16 | Ganancia de cajones de verdu |1740|0|
-| 01-08-16 | Compra de garrafa |0|135|
-| 07-08-16 | Pago alquiler agosto y pago de cerramiento y luminarias |0|4000|
-| 07-08-16 | Diferencia de caja -ponen Yorg y Her- |500|0|
-| 07-08-16 | Devolucion a Fran por prestamo hecho a UALALA para compra -es lo faltante que se puso en reglon anterior- |0|500|
-| 15-08-16 | Compra de cajones más 70p extra de un comprador colaborador |1350|0|
-| 17-08-16 | Garrafa |0|140|
-| 17-08-16 | Se entrega plata a Gonza para pintura |0|200|
-| 29-08-16 | Compra de huevos y ajos para encuentro |0|65|
-| 30-08-16 | Compra de cajones |1360|0|
-| 02-09-16 | Compra de viveres para comilona -Manu- |0|110|
-| 06-09-16 | Compra chip Movistar y carga de 30p |0|45|
-| 07-09-16 | Pago alquiler sept |0|2000|
-| 09-09-16 | Unipel (100 vasos,  cartulinas,  cinta ancha y marcadores) |0|133|
-| 09-09-16 | Mercado (velas, papel higienico, rollos de cocina) |0|103|
-| 09-09-16 | El Tronador. 2 damajuanas |0|300|
-| 09-09-16 | 2 packs de cerveza de 24 c/u |0|594|
-| 09-09-16 | 10 docenas de tapas de empanadas Coop La Via |0|120|
-| 09-09-16 | 10 docenas de tapas de empanadas Tapandil |0|150|
-| 10-09-16 | Cajon de naranjas |0|160|
-| 10-09-16 | Luces blancas 6 juegos de 4mts |0|300|
-| 10-09-16 | Gasoil |0|100|
-| 10-09-16 | Tanza, cable e interruptor de luz |0|85|
-| 10-09-16 | Diferencia de pintura (ya se habian entregado 200p) |0|67|
-| 10-09-16 | Queso Agus |0|430|
-| 10-09-16 | Plantines para frente |0|70|
-| 11-09-16 | Velada tanguera (Gorra: 1040p. Cantina:2199. Se devuelven prestamos hechos por Agus -430- Gonza-137- Yorg y Her -880- para las compras realizadas previo a la velada) |3239|0|
-| 12-09-16 | Bolsas de consorcio |0|45|
-| 13-09-16 | Compra de cajones y 50p de gas q no fueron usados |1840|0|
-| 16-09-16 | Compra de cervezas en reunion (8 a 13p) |104|0|
-| 16-09-16 | Pago a Ne por jabones (deuda de los regalos de agradecimiento por la casa) |0|100|
-| 16-09-16 | Pago a Eli y Mai por budines (deuda de los regalos de agradecimiento por la casa) |0|120|
-| 22-09-16 | Compra de cervezas en reunion (3 a 13p) |39|0|
-| 26-09-16 | Carga de 30p tel UALALA |0|30|
-| 27-09-16 | Compra de cajones ((aun deben Eli y Mai los suyos aunque esta sumado como si estuvieran pagos)) |1090|0|
-| 30-09-16 | 2 rollos de membrana para techo |0|1308|
-| 30-09-16 | Canilla para patio |0|270|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
