@@ -128,5 +128,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 30-09-16 | 2 rollos de membrana para techo |0|1308|
 | 30-09-16 | Canilla para patio |0|270|
 | 03-10-16 | Magui y Dario deben 60p ((Corresponden 50 a prestamo para regalo y 10 a tapas de empanadas)) |0|60|
-| 03-10-16 | Dif de guita vacaciones de invierno |0|1000|
+| 03-10-16 | Dif de guita vacaciones de invierno -no estan siendo restados!No funca la tabla- |0|1000|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
