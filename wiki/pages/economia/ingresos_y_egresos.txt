@@ -116,7 +116,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 10-09-16 | Diferencia de pintura (ya se habian entregado 200p) |0|67|
 | 10-09-16 | Queso Agus |0|430|
 | 10-09-16 | Plantines para frente |0|70|
-| 11-09-16 | Velada tanguera (Gorra: 1040p. Cantina:2199. Se devuelven prestamos hechos por Agus -430- Gonza-137- Yorg y Her -880- para las compras realizadas previo a la velada) |3239|0|
+| 11-09-16 | Velada tanguera ((Gorra: 1040p. Cantina:2199. Se devuelven prestamos hechos por Agus -430- Gonza-137- Yorg y Her -880- para las compras realizadas previo a la velada)) |3239|0|
 | 12-09-16 | Bolsas de consorcio |0|45|
 | 13-09-16 | Compra de cajones y 50p de gas q no fueron usados |1840|0|
 | 16-09-16 | Compra de cervezas en reunion (8 a 13p) |104|0|
