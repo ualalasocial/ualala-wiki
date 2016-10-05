@@ -15,6 +15,7 @@ Es el grupo abocado a conseguir el dinero para cubrir las necesidades del proyec
 
 ## Páginas
 
+* [[economia:ingresos_y_egresos|Registro de ingresos y egresos desde jul 2016]]
 * [[economia:ingresos_y_egresos|Registro de ingresos y egresos]]
 * [[economia:cajones|Venta de cajones de verduras]]
 
