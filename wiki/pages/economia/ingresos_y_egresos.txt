@@ -5,7 +5,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 10-09-15 | Alquiler Septiembre |0|1000|
 | 10-09-15 | Gas Septiembre |0|30|
 | 12-09-15 | Llave de paso |0|201|
-| 12-09-15 | Dr.bio-destapacañerías- |0|30|
+| 12-09-15 | Dr.bio destapacañerías |0|30|
 | 15-09-15 | Venta de cajones de verduras |500|0|
 | 19-09-15 | Venta en Feria de ropa |390.6|0|
 | 27-09-15 | Rompecabezas |0|88|
@@ -24,33 +24,32 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 07-11-15 | Alquiler noviembre |0|1000|
 | 09-11-15 | Venta de cajones de verduras |1575|0|
 | 10-11-15 | Acrílicos |0|90|
-| 21-11-15 | Art de fereteria (fluido manchester+tornillos)  |0|156.5|
+| 21-11-15 | Art de fereteria (fluido manchester+tornillos) |0|156.5|
 | 24-11-15 | Venta de cajones de verdura |1100|0|
-| 03-12-15 | Art de limpieza  |0|41|
+| 03-12-15 | Art de limpieza |0|41|
 | 08-12-15 | Venta de cajones de verdura |1300|0|
-| 11-12-15 | Pago alquiler diciembre - enero  |0|2000|
+| 11-12-15 | Pago alquiler diciembre-enero |0|2000|
 | 22-12-15 | Venta de cajones de verdura |925|0|
-| 23-12-15 | Pipeta  |0|100|
+| 23-12-15 | Pipeta |0|100|
 | 23-12-15 | 2 libros anti prince |0|160|
-| 23-12-15 | Cloro  |0|105|
+| 23-12-15 | Cloro |0|105|
 | 02-02-16 | Venta de cajones de verdura |720|0|
 | 15-02-16 | Venta de cajones de verdura |840|0|
-| 29-02-16 | compra art de limpieza  |0|110|
-| 29-02-16 | compra avena girasol pasas etc   |0|540|
-| 01-03-16 | compra de rollo de bolsas   |0|37|
+| 29-02-16 | compra art de limpieza |0|110|
+| 29-02-16 | compra avena girasol pasas etc |0|540|
+| 01-03-16 | compra de rollo de bolsas |0|37|
 | 01-03-16 | Venta de cajones de verdura |1250|0|
-| 02-03-16 | compra veneno de ratas   |0|96|
-| 02-03-16 | gastos de impresion   |0|100|
+| 02-03-16 | compra veneno de ratas |0|96|
+| 02-03-16 | gastos de impresion |0|100|
 | 07-03-16 | Pago alquiler febrero marzo  |0|2000|
 | 08-03-16 | pinceles y temperas   |0|143.5|
 | 08-03-16 | pintura pizarron   |0|44|
 | 15-03-16 | Venta de cajones de verdura |1900|0|
-| 08-03-16 | Alcancia de ualala   |200|0|
+| 15-03-16 | Alcancia de ualala |200|0|
 | 29-03-16 | Venta de cajones de verdura |1200|0|
-| 04-03-16 | participacion epep   |0|0|
-| 12-03-16 | Renovacion x 1 año de "ualala.org"|0|215|
-| 12-03-16 | pipeta   |0|150|
-| 12-03-16 | gastos construccion de carro   |0|500|
+| 29-03-16 | Renovacion x 1 año de "ualala.org"|0|215|
+| 30-03-16 | pipeta |0|150|
+| 12-03-16 | gastos construccion de carro |0|500|
 | 12-03-16 | gastos libreria   |0|500|
 | 29-03-16 | Venta de cajones de verdura |2100|0|
 | 07-04-16 | Pago alquiler abril  |0|1000|
