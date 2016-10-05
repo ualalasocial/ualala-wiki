@@ -2,7 +2,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 
 ^ Fecha ^ Concepto ^ Entra ^ Sale ^
 | 15-07-16 | Hay en caja |465|0|
-| 17-07-16 | Pago deudas de cajon Gonza y Her |600|0|
+| 17-07-16 | Pago deudas de cajones Gonza y Her (en planilla anterior estaba sumado dentro de la ganancia pero no estaba en la caja) |580|0|
 | 18-07-16 | Ganancia de cajones de verdu |2050|0|
 | 01-08-16 | Ganancia de cajones de verdu |1740|0|
 | 01-08-16 | Excedente en caja (entrega Mai caja a Yorg con 4480 pesos) |80|0|
