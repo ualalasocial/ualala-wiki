@@ -128,4 +128,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 27-09-16 | Compra de cajones ((aun deben Eli y Mai los suyos aunque esta sumado como si estuvieran pagos)) |1090|0|
 | 30-09-16 | 2 rollos de membrana para techo |0|1308|
 | 30-09-16 | Canilla para patio |0|270|
+| 04-10-16 | Diferencia de guita. Hay un extra de desajustes viejos (el resultado de la wiki da una diferencia con lo que hay en caja.) |148|0|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
