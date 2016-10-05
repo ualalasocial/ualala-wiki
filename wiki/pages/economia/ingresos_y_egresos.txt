@@ -45,7 +45,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 08-03-16 | pinceles y temperas   |0|143.5|
 | 08-03-16 | pintura pizarron   |0|44|
 | 15-03-16 | Venta de cajones de verdura |1900|0|
-| 08-03-16 | Alcancia de ualala   |0|200|
+| 08-03-16 | Alcancia de ualala   |200|0|
 | 29-03-16 | Venta de cajones de verdura |1200|0|
 | 04-03-16 | participacion epep   |0|0|
 | 12-03-16 | Renovacion x 1 año de "ualala.org"|0|215|
@@ -128,5 +128,4 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 27-09-16 | Compra de cajones ((aun deben Eli y Mai los suyos aunque esta sumado como si estuvieran pagos)) |1090|0|
 | 30-09-16 | 2 rollos de membrana para techo |0|1308|
 | 30-09-16 | Canilla para patio |0|270|
-| 04-10-16 | Diferencia de guita. Hay un extra de desajustes viejos (el resultado de la wiki da una diferencia con lo que hay en caja.) |148|0|
 ^ TOTAL ^ ~~=sum(r1c2:r99c2)-sum(r1c3:r99c3)~~ ^^^
