@@ -20,8 +20,10 @@
 
 <div id="asambleas">
 
-1. [[Asambleas:Resumen del 2016/10/06]] | ECO: FUTURA
-1. [[Asambleas:Resumen del 2016/10/03]] | PED: FUTURA
+1. [[Asambleas:Resumen del 2016/10/13]] | ECO: FUTURA
+1. [[Asambleas:Resumen del 2016/10/10]] | PED: FUTURA
+1. [[Asambleas:Resumen del 2016/10/06]] | ECO: preparacion para variete
+1. [[Asambleas:Resumen del 2016/10/03]] | PED: puesta en comun de encuentros y registros
 1. [[Asambleas:Resumen del 2016/09/29]] | ECO: grilla limpieza/variete/ minga
 1. [[Asambleas:Resumen del 2016/09/26]] | PED: seguimos con los circulos
 1. [[Asambleas:Resumen del 2016/09/22]] | ECO: reprogramando variete. tema patio/huerta
