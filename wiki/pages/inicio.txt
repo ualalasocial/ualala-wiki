@@ -20,8 +20,12 @@
 
 <div id="asambleas">
 
-1. [[Asambleas:Resumen del 2016/10/13]] | ECO: FUTURA
-1. [[Asambleas:Resumen del 2016/10/10]] | PED: FUTURA
+1. [[Asambleas:Resumen del 2016/11/03]] | ECO: ???
+1. [[Asambleas:Resumen del 2016/10/31]] | PED: ???
+1. [[Asambleas:Resumen del 2016/10/24]] | PED: resumen de encuentros y definicion de campamento
+1. [[Asambleas:Resumen del 2016/10/17]] | PED: ???
+1. [[Asambleas:Resumen del 2016/10/13]] | ECO: ???
+1. [[Asambleas:Resumen del 2016/10/10]] | PED: ???
 1. [[Asambleas:Resumen del 2016/10/06]] | ECO: preparacion para variete
 1. [[Asambleas:Resumen del 2016/10/03]] | PED: puesta en comun de encuentros y registros
 1. [[Asambleas:Resumen del 2016/09/29]] | ECO: grilla limpieza/variete/ minga
