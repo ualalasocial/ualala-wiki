@@ -37,7 +37,7 @@ Es el grupo abocado a desarrollar las estrategias de comunicación hacia afuera,
 ## Articulos propios
 
 * [[comunicacion:articulo_libro_unmdp|Articulo para libro de la UNMdP]]
-* [[comunicacion:articulo_libroprod_unmdp|Articulo para libro prod de la UNMdP]]
+* [[comunicacion:entrevista_acrata_del_valle|Entrevista para Prensa Ácrata del Valle]]
 * [[comunicacion:articulo-EPEP|Articulo 3er EPEP]]
 
 
