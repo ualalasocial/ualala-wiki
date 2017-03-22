@@ -3,6 +3,63 @@
 
 ### Resumen
 
+La idea sería dar cuenta de la cuestión de las nuevas formas de
+cooperación entre organizaciones no estatales en el contexto de la
+sociedad-red. Como caso tranversal se estudiaria las diferentes
+expresiones de las educaciones alternativas que tienen en común una
+crítica entorno a los sistemas educativos oficiales dominantes y cómo
+estas se han infuenciado y organizado a nivel trasnacional.
+
+#### Parte 1
+
+En principio planteariamos que el concepto de "red" no es nuevo, ni en
+términos teóricos ni prácticos. Ahi metemos una genealogía histórica de
+3 o 4 redes temáticas de pedagogias alternativas (que tengan formas
+lógicas de relación diferentes entre ellas). Podria ser: la red Escuela
+Moderna/Freinet, el movimiento de la Educación Popular, las escuelas
+Montessori, la red mundial de Educación Democrática y otras. Ahi seria mas o
+menos descriptivo, un ejercicio de contrastes y comparaciones, dando
+cuenta de qué son y han conseguido estas redes actualmente (de cada una
+de ellas puedo conseguir a alguien para entrevistar via mail o skype).
+
+#### Parte 2
+
+Vamos al presente, analizando las ideas actuales entorno a formas de
+organización en red, no estatalismo, movimientos sociales postmodernos,
+hacktivismo, etc. Algo de eso para dar cuenta de que, aunque no se
+invento en el siglo xxi, la idea de organización política en red se ha
+trasmutado y reconfigurado a la luz del capitalismo actual. Ahi podemos
+meter un poco de Boaventura, Esteva y otros amigxs europeos, para darle
+mas sustento "global". Todo ese cuento nos va perfilando para poder
+contar como han dialogado y articulado todo ese universo de actores
+críticos sobre la educación con estas nuevas práctica/tecnologías/lenguajes
+
+#### Parte 3
+
+Aparece Reevo como emergente del cruce de [ Redes/Comunidades <->
+Pedagogías críticas ]. Ahi se puede caracterizar el proyecto y cómo
+abreva de las contrucciones anteriores (qué aprendizajes toma de las
+redes de educación alternativa del siglo xx; como en su diseño
+técnico-político se buscan aplicar varias de las ideas expresadas en
+Parte 2). En lo concreto se podría describir como se aplican
+dispositivos muy actuales: redes distribuidas trasnacionales, materiales
+virales, lógical "glocal" y otros neologísmos muy actuales. Frente a eso
+la pregunta abierta y crítica sobre la capacidad real que tienen estas
+nuevas formas de organización para-estatal (atendiendo a la crítica al
+mercado y al oenegeísmo que se hace desde Reevo, como un caso de
+"movimiento ciudadano" en tiempos de 15M, "swarmming", Occupy, "Buen
+vivir/Buen conocer", etc.)
+
+#### Sobre el marco teórico
+
+No creo que sea posible apoyarse en un autor o dos que nos sirvan para
+todo ese esqueleto. Asi que yo sugiero que nos concentremos en
+apalancarnos en varios autores por cada parte del texto. Supongo que
+habrá que pivotear sobre algun pope del tema de geopolítica que haya
+dicho algunas cosas sobre educación, redes, etc. No lo se, pero seguro
+existe algun ñato.
+
+
 ### Recursos
 
 * [[Fichaje de redes de educación alternativa]]
@@ -10,4 +67,6 @@
 
 ## Plan de tesis
 
+* Definir estructura y desarrollo necesario
+* Ejemplos?
 
