@@ -60,7 +60,7 @@ dicho algunas cosas sobre educación, redes, etc. No lo se, pero seguro
 existe algun ñato.
 
 
-### Recursos
+### Insumos
 
 * [[Fichaje de redes de educación alternativa]]
 
@@ -70,3 +70,6 @@ existe algun ñato.
 * Definir estructura y desarrollo necesario
 * Ejemplos?
 
+## Enlaces importantes
+
+* Reglmento de tesis: http://www.fch.unicen.edu.ar/images/stories/noticias/ABRIL_2014/REGLAMENTO_DE_TESIS_DE_LICENCIATURA.pdf
