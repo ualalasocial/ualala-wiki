@@ -145,4 +145,10 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 13-11-16 | Carga virtual |0|50|
 | 15-11-16 | Corte de pasto |75|0|
 | 19-11-16 | Ferretería (uniones, codo, manguera, tornillos, bajada) |0|100|
+| 19-11-16 | Arena y ladrillos |0|112,50|
+| 21-11-16 | Compra de matafuegos |0|400|
+| 21-11-16 | Luz |0|72,25|
+| 21-11-16 | Cajones |900|0|
+| 06-12-16 | Cajones |1330|0|
+| 07-12-16 | Pago alquiler diciembre |0|2500|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
