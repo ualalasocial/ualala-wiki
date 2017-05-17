@@ -127,7 +127,6 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 27-09-16 | Compra de cajones |1090|0|
 | 30-09-16 | 2 rollos de membrana para techo |0|1308|
 | 30-09-16 | Canilla para patio |0|270|
-| 03-10-16 | Magui y Dario deben 60p ((Corresponden 50 a prestamo para regalo y 10 a tapas de empanadas)) |0|60|
 | 03-10-16 | Dif de guita vacaciones de invierno |0|1000|
 | 04-10-16 | Carga virtual |0|40|
 | 05-10-16 | Pago alquiler octubre |0|2000|
@@ -178,7 +177,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 20-04-17 | Luz (Magui) |0|225|
 | 25-04-17 | Cajones |2050|0|
 | 09-05-17 | Pago alquiler |0|2500|
-| 09-05-17 | Cajones ((Falta entrega de lo cobrado x Marce, q son $725)) |2200|0|
+| 09-05-17 | Cajones ((Falta entrega de lo cobrado x Marce, q son $375)) |2200|0|
 | 11-05-17 | Garrafa |0|185|
 | 16-05-17 | Luz ((Hay q devolver a Fran)) |0|50|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
