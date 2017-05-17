@@ -124,9 +124,9 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 16-09-16 | Pago a Eli y Mai por budines (deuda de los regalos de agradecimiento por la casa) |0|120|
 | 22-09-16 | Compra de cervezas en reunion (3 a 13p) |39|0|
 | 26-09-16 | Carga de 30p tel UALALA |0|30|
-| 27-09-16 | Compra de cajones ((aun deben Eli y Mai los suyos aunque esta sumado como si estuvieran pagos)) |1090|0|
+| 27-09-16 | Compra de cajones |1090|0|
 | 30-09-16 | 2 rollos de membrana para techo |0|1308|
 | 30-09-16 | Canilla para patio |0|270|
 | 03-10-16 | Magui y Dario deben 60p ((Corresponden 50 a prestamo para regalo y 10 a tapas de empanadas)) |0|60|
-| 03-10-16 | Dif de guita vacaciones de invierno -no estan siendo restados!No funca la tabla- |0|1000|
+| 03-10-16 | Dif de guita vacaciones de invierno |0|1000|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
