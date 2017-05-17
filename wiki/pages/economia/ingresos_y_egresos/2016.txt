@@ -1,4 +1,1 @@
-Hay que fusionar estas dos tablas!
-
-* [[economia:ingresos_y_egresos_jul2016|Registro de ingresos y egresos desde jul 2016]]
 * [[economia:ingresos_y_egresos|Registro de ingresos y egresos]]
