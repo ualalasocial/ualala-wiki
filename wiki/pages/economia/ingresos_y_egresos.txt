@@ -129,4 +129,11 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 30-09-16 | Canilla para patio |0|270|
 | 03-10-16 | Magui y Dario deben 60p ((Corresponden 50 a prestamo para regalo y 10 a tapas de empanadas)) |0|60|
 | 03-10-16 | Dif de guita vacaciones de invierno |0|1000|
+| 04-10-16 | Carga virtual |0|40|
+| 05-10-16 | Pago alquiler octubre |0|2000|
+| 06-10-16 | Cooperadora |710|0|
+| 07-10-16 | Dif de guita vacaciones de invierno |0|320|
+| 07-10-16 | Variete ((Detalle: $297 naranja y verdus; $594 2 pack de cerves; $240 16 doc empanadas; $200 queso; $115 goma eva y afiches;$360 pack de cerve durante variete; $238 hielo, velas,encendedor,garrafa)) |0|2044|
+| 09-10-16 | Cantina |2773|0|
+| 09-10-16 | Gorra |651,25|0|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
