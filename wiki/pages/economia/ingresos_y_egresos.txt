@@ -150,5 +150,35 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 21-11-16 | Luz |0|72,25|
 | 21-11-16 | Cajones |900|0|
 | 06-12-16 | Cajones |1330|0|
-| 07-12-16 | Pago alquiler diciembre |0|2500|
+| 04-12-16 | Pago alquiler diciembre |0|2500|
+| 06-12-16 | Cooperadora |600|0|
+| 06-12-16 | Gastos FLIA (tapas $300; Damajuana $150; papelera $208; cervezas viernes $1248; cerves sabado $936; Hielo $185; naranjas $300; numeros y vasos $186; Queso $287) |0|3800|
+| 08-12-16 | Cantina FLIA |2704|0|
+| 09-12-16 | Cantina FLIA |1925|0|
+| 09-12-16 | Cantina ualalense |805|0|
+| 14-12-16 | Carga virtual |0|50|
+| 20-12-16 | Cajones |1540|0|
+| 22-12-16 | Carga de matafuegos |0|770|
+| 03-01-17 | Cajones |1350|0|
+| 07-01-17 | Pago alquiler |0|2500|
+| 17-01-17 | Cajones |1110|0|
+| 25-01-17 | Carga virtual |0|50|
+| 31-01-17 | Cajones |900|0|
+| 02-02-17 | Luz |0|194|
+| 09-02-17 | Pago alquiler |0|2500|
+| 14-02-17 | Cajones |1120|0|
+| 23-02-16 | Carga virtual |0|50|
+| 28-02-17 | Cajones |1400|0|
+| 10-03-17 | Pago alquiler |0|2500|
+| 14-03-17 | Cajones |1440|0|
+| 28-03-17 | Cajones |1700|0|
+| 05-04-17 | Carga virtual |0|50|
+| 09-04-17 | Pago alquiler |0|2500|
+| 11-04-17 | Cajones |1700|0|
+| 20-04-17 | Luz (Magui) |0|225|
+| 25-04-17 | Cajones |2050|0|
+| 09-05-17 | Pago alquiler |0|2500|
+| 09-05-17 | Cajones ((Falta entrega de lo cobrado x Marce, q son $725)) |2200|0|
+| 11-05-17 | Garrafa |0|185|
+| 16-05-17 | Luz ((Hay q devolver a Fran)) |0|50|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
