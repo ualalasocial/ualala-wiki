@@ -179,5 +179,6 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 09-05-17 | Pago alquiler |0|2500|
 | 09-05-17 | Cajones ((Falta entrega de lo cobrado x Marce, q son $375)) |2200|0|
 | 11-05-17 | Garrafa |0|185|
-| 16-05-17 | Luz ((Hay q devolver a Fran)) |0|50|
+| 16-05-17 | {{:economia:ingresos_y_egresos:luz-17_05.pdf|Servicio de luz de Mayo}}((Pagó Franco)) |0|50|
+| 06-06-17 | {{:economia:ualala.org-factura-2017.pdf|Renovacion anual del dominio ualala.org}}((Pagó Franco)) |0|224|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
