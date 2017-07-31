@@ -190,5 +190,5 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 04-07-17 | Cajones |1400|0|
 | 11-07-17 | Pago alquiler |0|3000|
 | 15-07-17 | Variete cumples y despedida |1100|0|
-| 18-07-17 | Cajones ((falta recuperar plata)) |600|0|
+| 18-07-17 | Cajones ((falta recuperar plata: 1400p)) |600|0|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
