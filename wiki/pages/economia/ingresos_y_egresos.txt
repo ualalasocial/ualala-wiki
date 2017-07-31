@@ -177,8 +177,17 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 20-04-17 | Luz (Magui) |0|225|
 | 25-04-17 | Cajones |2050|0|
 | 09-05-17 | Pago alquiler |0|2500|
-| 09-05-17 | Cajones ((Falta entrega de lo cobrado x Marce, q son $375)) |2200|0|
+| 09-05-17 | Cajones|2200|0|
 | 11-05-17 | Garrafa |0|185|
-| 16-05-17 | {{:economia:ingresos_y_egresos:luz-17_05.pdf|Servicio de luz de Mayo}}((Pagó Franco)) |0|50|
-| 06-06-17 | {{:economia:ualala.org-factura-2017.pdf|Renovacion anual del dominio ualala.org}}((Pagó Franco)) |0|224|
+| 16-05-17 | Servicio de luz de Mayo |0|50|
+| 17-05-17 | Compras varias electricidad Cobla ((Detalle: cables,zapatilla, ciocca ext.,lampara fluoresc.,cinta aisladora, zocalo para tubo,grampas)) |0|1580,73|
+| 20-05-17 | Compras electricidad ferreteria ((tubo led, zocalo flex., duna bastidor rect, duna tapa rectang., interruptor, tapon ciego, jabalina, disyuntor, buscapolo, caja kalop ext.)) |0|660|
+| 06-06-17 | Renovacion anual del dominio ualala.org |0|224|
+| 06-06-17 | Cajones |2000|0|
+| 07-06-17 | Pago alquiler |0|3000|
+| 20-06-17 | Cajones |1700|0|
+| 04-07-17 | Cajones |1400|0|
+| 11-07-17 | Pago alquiler |0|3000|
+| 15-07-17 | Variete cumples y despedida |1100|0|
+| 18-07-17 | Cajones ((falta recuperar plata)) |600|0|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
