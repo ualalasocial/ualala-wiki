@@ -187,8 +187,14 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 07-06-17 | Carga virtual |0|50|
 | 07-06-17 | Pago alquiler |0|3000|
 | 20-06-17 | Cajones |1700|0|
+| 23-06-17 | Luz-reconexion |0|139|
 | 04-07-17 | Cajones |1400|0|
 | 11-07-17 | Pago alquiler |0|3000|
 | 15-07-17 | Variete cumples y despedida |1100|0|
-| 18-07-17 | Cajones ((falta recuperar plata: 1400p)) |600|0|
+| 18-07-17 | Cajones |600|0|
+| 01-08-17 | Cajones ((falta recuperar 350-Agus)) |2100|0|
+| 01-08-17 | Cajones de Erna y Sofi que deberiamos pagar pero aun no se hizo (2 compras) |0|700|
+| 07-06-17 | Insumos cerveza |0|1000|
+| 07-06-17 | Piñatas para fermentadores cerveza |0|75|
+| 07-06-17 | Compra Diarco ((Detalle: yerba x3; esponjas x2; Fideos x6; Pure de tomates x5; lavandina x1; papel x4))  |0|240,39|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
