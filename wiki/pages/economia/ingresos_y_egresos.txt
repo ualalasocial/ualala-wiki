@@ -144,9 +144,9 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 13-11-16 | Carga virtual |0|50|
 | 15-11-16 | Corte de pasto |75|0|
 | 19-11-16 | Ferretería (uniones, codo, manguera, tornillos, bajada) |0|100|
-| 19-11-16 | Arena y ladrillos |0|112,50|
+| 19-11-16 | Arena y ladrillos |0|112.50|
 | 21-11-16 | Compra de matafuegos |0|400|
-| 21-11-16 | Luz |0|72,25|
+| 21-11-16 | Luz |0|72.25|
 | 21-11-16 | Cajones |900|0|
 | 06-12-16 | Cajones |1330|0|
 | 04-12-16 | Pago alquiler diciembre |0|2500|
@@ -194,7 +194,12 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 18-07-17 | Cajones |600|0|
 | 01-08-17 | Cajones ((falta recuperar 350-Agus)) |2100|0|
 | 01-08-17 | Cajones de Erna y Sofi que deberiamos pagar pero aun no se hizo (2 compras) |0|700|
-| 07-06-17 | Insumos cerveza |0|1000|
-| 07-06-17 | Piñatas para fermentadores cerveza |0|75|
-| 07-06-17 | Compra Diarco ((Detalle: yerba x3; esponjas x2; Fideos x6; Pure de tomates x5; lavandina x1; papel x4))  |0|240,39|
+| 07-08-17 | Insumos cerveza |0|1000|
+| 07-08-17 | Piñatas para fermentadores cerveza |0|75|
+| 07-08-17 | Compra Diarco ((Detalle: yerba x3; esponjas x2; Fideos x6; Pure de tomates x5; lavandina x1; papel x4))  |0|241|
+| 11-08-17 | Pago alquiler  |0|3000|
+| 15-08-17 | Cajones |1600|0|
+| 19-08-17 | Compra mayorista UNIPEL ((temperas, plasticola, tizas, cinta embalar, marcadores, lapices, lapiceras, palitos de colores, pinceles)) |0|1150|
+| 29-08-17 | Cajones |1450|0|
+| 06-09-17 | Pago alquiler |0|3000|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
