@@ -198,6 +198,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 07-08-17 | Piñatas para fermentadores cerveza |0|75|
 | 07-08-17 | Compra Diarco ((Detalle: yerba x3; esponjas x2; Fideos x6; Pure de tomates x5; lavandina x1; papel x4))  |0|241|
 | 11-08-17 | Pago alquiler  |0|3000|
+| 14-08-17 | Compra de tapitas, tapador y azucar para cerveza |0|800|
 | 15-08-17 | Cajones |1600|0|
 | 19-08-17 | Compra mayorista UNIPEL ((temperas, plasticola, tizas, cinta embalar, marcadores, lapices, lapiceras, palitos de colores, pinceles)) |0|1150|
 | 29-08-17 | Cajones ((falta recuperar 350 Vane y 185 que tiene Nelia x kiwis. se paga 65p de un cajon trueque)) |1385|0|
