@@ -205,11 +205,11 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 29-08-17 | Pago parte de cajon de trueque que salio mal |0|65| 
 | 29-08-17 | Pago medio cajon Sofi |0|125| 
 | 06-09-17 | Pago alquiler |0|3000|
-| 12-09-17 | Cajones (Ualala esta pagando los medios cajones) |1100|0|
+| 12-09-17 | Cajones (Ualala esta pagando los medios cajones)((FALTA $YORG Y HER)) |1100|0|
 | 16-09-17 | Feria venta de birras |2000|0|
-| 26-09-17 | Cajones |850|0|
+| 26-09-17 | Cajones ((FALTA $ VANE)) |850|0|
 | 26-09-17 | Pago cajones q damos por actividades |0|375|
-| 27-09-17 | Compra dietética ((tenemos que aportar 140 x flia. por el momento puso Cintia 100, Ale 117 y Né 120 |0|480|
+| 27-09-17 | Compra dietética ((tenemos que aportar 140 x flia. por el momento puso Cintia 100, Ale 117 y Né 120)) |0|480|
 | 29-09-17 | Plata de vaquitas de birra en Ualala |177|0|
 | 07-10-17 | Feria venta de birras |1620|0|
 ^ TOTAL ^ ~~=sum(r1c2:r999c2)-sum(r1c3:r999c3)~~ ^^^
