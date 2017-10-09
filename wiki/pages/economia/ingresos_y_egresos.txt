@@ -207,7 +207,7 @@ Registro de ingresos y egresos. Para agregar algo a la tabla, duplicar la anteú
 | 06-09-17 | Pago alquiler |0|3000|
 | 12-09-17 | Cajones (Ualala esta pagando los medios cajones)((FALTA $YORG Y HER)) |1100|0|
 | 16-09-17 | Feria venta de birras |2000|0|
-| 26-09-17 | Cajones ((FALTA $ VANE)) |850|0|
+| 26-09-17 | Cajones ((FALTA $ VANE y MAI)) |850|0|
 | 26-09-17 | Pago cajones q damos por actividades |0|375|
 | 27-09-17 | Compra dietética ((tenemos que aportar 140 x flia. por el momento puso Cintia 100, Ale 117 y Né 120)) |0|480|
 | 29-09-17 | Plata de vaquitas de birra en Ualala |177|0|
